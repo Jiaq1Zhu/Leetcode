@@ -1,4 +1,7 @@
 class ValidateBinarySearchTree{
+    class TreeNode{
+        int val;
+    }
     public boolean isValidBST(TreeNode root) {
         return helper(root,null,null);
     }
