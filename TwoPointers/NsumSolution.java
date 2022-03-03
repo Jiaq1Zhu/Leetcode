@@ -3,6 +3,5 @@ class NsumSolution{
     private static int 2Sum(int[] nums,int target){
        // using hashMap for this is quicker
     }
-    
-
+    private static
 }
