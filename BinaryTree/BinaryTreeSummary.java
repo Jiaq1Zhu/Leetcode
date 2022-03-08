@@ -143,5 +143,34 @@ Map<Integer,Integer> map3 = new HashMap<>();
         root.right = build3(preorder,preStart+leftSize+1,preEnd,postorder,index+1,postEnd-1);
         return root;
     }
+
+    // leetcode 652
+/**
+ * Find dupulicate subtree in a given tree and add them into a list
+ * This one we use create a String of inorder traversal as the hash value.
+ */
+
+public List<TreeNode> findDuplicateSubtrees(TreeNode root) {
+    Map<String,List<TreeNode>> map = new HashMap<>();
+    List<TreeNode> res = new ArrayList<>();
+    hash(root,map);
+    for(List<TreeNode> group:map.values()){
+        if(group.size() > 1){
+            res.add(group.get(0));
+        }
+    }
+    return res;
+}
+
+public String hash(TreeNode node, Map<String,List<TreeNode>> map){
+    if(node == null)return "";
+    String hashVal = "("+hash(node.left,map)+node.val+hash(node.right,map)+")";
+    if(!map.containsKey(hashVal))map.put(hashVal,new ArrayList<>());
+    map.get(hashVal).add(node);
+    return hashVal;
+}
     
 }
+
+
+
