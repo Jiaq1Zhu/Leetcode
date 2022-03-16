@@ -62,4 +62,36 @@ public class BinarySearchTreeSummary3 {
          }
          return dp[n];
      }
+
+     // Leetcode 95
+     public List<TreeNode> generateTrees(int n){
+         /**
+          * This question is very similar but instead it needs you to generate all these trees.
+          * We will use a helper function just like previous questions.
+          * 
+          */
+          return construct(1,n);
+          
+     }
+
+     public List<TreeNode> construct(int low, int high){
+        List<TreeNode> res = new ArrayList<>();
+        if(low > high){
+            res.add(null);
+            return res;
+        }
+        for(int k = low;k <= high;k++){
+            List<TreeNode> left = construct(low,k-1);
+            List<TreeNode> right = construct(k+1,high);
+            for(int i = 0;i < left.size();i++){
+                for(int j = 0;j < right.size();j++){
+                    TreeNode root = new TreeNode(k);
+                    root.left = left.get(i);
+                    root.right = right.get(j);
+                    res.add(root);
+                }
+            }
+        }
+        return res;
+    }
 }
