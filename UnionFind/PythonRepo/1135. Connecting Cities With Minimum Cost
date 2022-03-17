@@ -1,0 +1,22 @@
+class Solution:
+    def minimumCost(self, n: int, connections: List[List[int]]) -> int:
+        adj = defaultdict(list)
+        for c1, c2, cost in connections:
+            adj[c1].append((c2, cost))
+            adj[c2].append((c1, cost))
+            
+        heap = [(0, 1)]
+        total_cost = 0
+        visited = set()
+        
+        while heap:
+            cost, city = heapq.heappop(heap)
+            if city not in visited:
+                visited.add(city)
+                total_cost += cost
+                for nei_city, nei_cst in adj[city]:
+                    heapq.heappush(heap, (nei_cst, nei_city))
+                    
+        
+                    
+        return total_cost if len(visited) == n else -1
