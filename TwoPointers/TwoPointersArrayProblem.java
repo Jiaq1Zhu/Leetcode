@@ -94,6 +94,8 @@ class TwoPointersArrayProblem{
 
 
      // Leetcode 5
+     // There is a dp solution, but the time complexity is not as good as this one. 
+     // Manacher's algorithm is good, it can search in O(n) time. But i think i hard to remember that.
      public String longestPalindrome(String s) {
         String res = "";
         for(int i = 0;i < s.length();i++){
