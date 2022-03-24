@@ -4,6 +4,22 @@ Leetcode Question &amp; Solutions
 
 ## Graph
 
+### BFS 广度优先搜索
+
+#### [Leetcode 210 Course Schedule II](https://github.com/Dh0le/Leetcode/blob/main/Graph/BFS/Leetcode210.java)
+
+### DFS 深度优先搜索
+
+#### [Leetcode 207 Course Schedule](https://github.com/Dh0le/Leetcode/blob/main/Graph/DFS/Leetcode207.java)
+
+#### [Leetcode 797 All Paths From Source to Target](https://github.com/Dh0le/Leetcode/blob/main/Graph/DFS/Leetcode797.java)
+
+### Biparted Graph 二分图问题
+
+#### [Leetcode 785 Is Graph Bipartite?](https://github.com/Dh0le/Leetcode/blob/main/Graph/GraphBiparted/Leetcode785.java)
+
+#### [Leetcode 785 Possible Bipartition](https://github.com/Dh0le/Leetcode/blob/main/Graph/GraphBiparted/Leetcode886.java)
+
 ### Celebrity Problem 名流问题
 
 #### [Leetcode 277 Find the Celebrity](https://github.com/Dh0le/Leetcode/blob/main/Graph/Leetcode277.java)
