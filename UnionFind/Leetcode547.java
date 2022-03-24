@@ -21,8 +21,11 @@ public class Leetcode547 {
         return ans;
         
     }
-    private int find(int[] parent, int x){
-        if(parent[x] != x)return find(parent,parent[x]);
+    public int find(int[] parent,int x){
+        while(parent[x] != x){
+            parent[x] = parent[parent[x]];
+            x = parent[x];
+        }
         return x;
     }
     private void union(int[] parent,int x, int y){

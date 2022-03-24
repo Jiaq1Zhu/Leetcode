@@ -1,37 +1,36 @@
 public class Leetcode1135 {
     class UnionFind{
-        public int count;
+        int count;
         int[] parent;
-        public UnionFind(int x){
-            this.count = x;
-            this.parent = IntStream.range(0, x).toArray();
+        public UnionFind(int n){
+            this.parent = new int[n];
+            for(int i = 0;i < n;i++){
+                parent[i] = i;
+            }
+            this.count = n;
         }
         public int find(int x){
-            if(parent[x] != x)return find(parent[x]);
+            while(parent[x] != x){
+                parent[x] = parent[parent[x]];
+                x = parent[x];
+            }
             return x;
         }
-        public void union(int x,int y){
-            int fx = find(x), fy = find(y);
-            if(fx != fy){
-                parent[fx] = fy;
-                this.count--;
-            }
-        }
-        public boolean isConnected(int x,int y){
-            return find(x) == find(y);
+        public void union(int x, int y){
+            int rootX = find(x);
+            int rootY = find(y);
+            if(rootX == rootY)return;
+            parent[rootX] = parent[rootY];
+            this.count--;
         }
     }
-    public int minConnected(int n, int[][] connections){
-        if(n == 0 || connections == null || connections.length == 0 || connections[0].length == 0)return -1;
+    public int minimumCost(int n, int[][] connections) {
         UnionFind uf = new UnionFind(n);
-        Arrays.sort(connections,(a,b)->a[2]-b[2]);
         int res = 0;
-        for(int[] c :connections){
-            int x = c[0], y = c[1], cost = c[2];
-            if(!uf.isConnected(x-1, y-1)){
-                uf.union(x-1, y-1);
-                res+= cost;
-            }
+        Arrays.sort(connections,(a,b)->a[2]-b[2]);
+        for(int[] connection:connections){
+            uf.union(connection[0]-1,connection[1]-1);
+            res += connection[2];
             if(uf.count == 1)break;
         }
         return uf.count == 1?res:-1;

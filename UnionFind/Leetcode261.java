@@ -1,9 +1,8 @@
-class Leetcode323 {
-    //this is basiclly an union find template.
+public class Leetcode261 {
     class UnionFind{
         int[] parent;
         public UnionFind(int n){
-            parent = new int[n];
+            this.parent = new int[n];
             for(int i = 0;i < n;i++){
                 parent[i] = i;
             }
@@ -15,11 +14,11 @@ class Leetcode323 {
             }
             return x;
         }
-        public boolean union(int a, int b){
-            int rootA = find(a);
-            int rootB = find(b);
-            if(rootA == rootB)return false;
-            parent[rootA] = rootB;
+        public boolean union(int x, int y){
+            int rootX = find(x);
+            int rootY = find(y);
+            if(rootX == rootY)return false;
+            parent[rootX] = parent[rootY];
             return true;
         }
         public int getCount(){
@@ -29,13 +28,13 @@ class Leetcode323 {
             }
             return count;
         }
-
     }
-    public int countComponents(int n, int[][] edges) {
+    public boolean validTree(int n, int[][] edges) {
         UnionFind uf = new UnionFind(n);
         for(int[] edge:edges){
-            uf.union(edge[0],edge[1]);
+            if(!uf.union(edge[0],edge[1]))return false;
         }
-        return uf.getCount();
+        if(uf.getCount() != 1)return false;
+        return true;
     }
 }
