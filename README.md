@@ -2,7 +2,19 @@
 
 Leetcode Question &amp; Solutions
 
-## Graph
+## DP 动态规划
+
+### [House Robber Problem 打家劫舍问题](https://github.com/Dh0le/Leetcode/blob/main/DP/HouseRobberAll.java)
+
+### [Buy and Sell Stock 股票买卖问题](https://github.com/Dh0le/Leetcode/blob/main/DP/SellAndBuyStock.java))
+
+### [Knapsack Problem 背包问题](https://github.com/Dh0le/Leetcode/blob/main/DP/KnapSackProblems.java)
+
+### [Leetcode 907 Sum of Subarray Minimums](https://github.com/Dh0le/Leetcode/blob/main/DP/Leetcode907.java)
+
+### [Leetcode 1143 Longest Common subsequence](https://github.com/Dh0le/Leetcode/blob/main/DP/Leetcode1143.java)
+
+## Graph 图算法
 
 ### BFS 广度优先搜索
 

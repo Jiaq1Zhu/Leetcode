@@ -1,4 +1,4 @@
-public class knapsackProblems{
+class KnapsackProblems{
     public static int zeroOneKnapsackNonoptimized(int[] weights,int[] values, int max,int num){
         int[][] dp = new int[num+1][max+1];
         for(int i = 1;i <= num;i++){
@@ -21,13 +21,5 @@ public class knapsackProblems{
             }
         }
         return dp[max];
-    }
-
-    public static void main(String[] args) {
-        int[] values = {60,100,120};
-        int[] weight = {10,20,30};
-        int w = 50;
-        System.out.println(zeroOneKnapsackNonoptimized(weight,values,w,weight.length));
-        System.out.println(zeroOneKnapsackOptimized(weight,values,w));
     }
 }
