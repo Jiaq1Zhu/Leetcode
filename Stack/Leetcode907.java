@@ -1,5 +1,7 @@
 import java.util.Stack;
-
+/**
+ * I think this problem is better categorized as mono stack instead of DP
+ */
 public class Leetcode907 {
     public int sumSubarrayMins(int[] arr){
         int res = 0, n = arr.length, M=(int)1e9+7;
