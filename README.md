@@ -4,6 +4,16 @@ Leetcode Question &amp; Solutions
 
 ## Two pointer 双指针问题
 
+### Arrays 数组应用
+
+#### [Leetcode 5 Longest Palindromic Substring](https://github.com/Dh0le/Leetcode/blob/main/TwoPointers/Array/Leetcode25.java)
+
+#### [Leetcode 26 Remove Duplicates from Sorted Array](https://github.com/Dh0le/Leetcode/blob/main/TwoPointers/Array/Leetcode26.java)
+
+#### [Leetcode 27 Remove Element](https://github.com/Dh0le/Leetcode/blob/main/TwoPointers/Array/Leetcode27.java)
+
+#### [Leetcode 283 Move zeros](https://github.com/Dh0le/Leetcode/blob/main/TwoPointers/Array/Leetcode283.java)
+
 ### LinkedList 链表应用
 
 #### [Leetcode 21 Merge Two Sorted Lists](https://github.com/Dh0le/Leetcode/blob/main/TwoPointers/LinkedList/Leetcode21.java)
@@ -11,6 +21,8 @@ Leetcode Question &amp; Solutions
 #### [Leetcode 23 Merge k Sorted Lists](https://github.com/Dh0le/Leetcode/blob/main/TwoPointers/LinkedList/Leetcode22.java)
 
 #### [Leetcode 19 Remove Nth Node From End of List](https://github.com/Dh0le/Leetcode/blob/main/TwoPointers/LinkedList/Leetcode19.java)
+
+#### [Leetcode 83 Remove Duplicates from Sorted List](https://github.com/Dh0le/Leetcode/blob/main/TwoPointers/LinkedList/Leetcode83.java)
 
 #### [Leetcode 876 Middle of the Linked List](https://github.com/Dh0le/Leetcode/blob/main/TwoPointers/LinkedList/Leetcode876.java)
 
@@ -38,7 +50,7 @@ Leetcode Question &amp; Solutions
 
 ### [House Robber Problem 打家劫舍问题](https://github.com/Dh0le/Leetcode/blob/main/DP/HouseRobberAll.java)
 
-### [Buy and Sell Stock 股票买卖问题](https://github.com/Dh0le/Leetcode/blob/main/DP/SellAndBuyStock.java))
+### [Buy and Sell Stock 股票买卖问题](https://github.com/Dh0le/Leetcode/blob/main/DP/SellAndBuyStock.java)
 
 ### [Knapsack Problem 背包问题](https://github.com/Dh0le/Leetcode/blob/main/DP/KnapSackProblems.java)
 
