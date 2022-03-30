@@ -2,6 +2,16 @@
 
 Leetcode Question &amp; Solutions
 
+## Prefix Sum Array 前缀和数组
+
+### [Leetcode 303 Range Sum Query - Immutable](https://github.com/Dh0le/Leetcode/blob/main/PrefixSum/Leetcode303.java)
+
+### [Leetcode 304 Range Sum Query 2D - Immutable](https://github.com/Dh0le/Leetcode/blob/main/PrefixSum/Leetcode304.java)
+
+### [Leetcode 370 Range Addition](https://github.com/Dh0le/Leetcode/blob/main/PrefixSum/Leetcode370.java)
+
+### [Leetcode Corporate Flight Bookings](https://github.com/Dh0le/Leetcode/blob/main/PrefixSum/Leetcode1109.java)
+
 ## Two pointer 双指针问题
 
 ### Arrays 数组应用
