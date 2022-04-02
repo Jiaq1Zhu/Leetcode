@@ -12,6 +12,16 @@ Leetcode Question &amp; Solutions
 
 ### [Leetcode Corporate Flight Bookings](https://github.com/Dh0le/Leetcode/blob/main/PrefixSum/Leetcode1109.java)
 
+## Trie 前缀树
+
+### [Leetcode 208 Implement Trie (Prefix Tree)](https://github.com/Dh0le/Leetcode/blob/main/Trie/Leetcode208.java)
+
+### [Leetcode 648 Replace Words](https://github.com/Dh0le/Leetcode/blob/main/Trie/Leetcode648.java)
+
+### [Leetcode 1268 Search Suggestions System](https://github.com/Dh0le/Leetcode/blob/main/Trie/Leetcode1268.java)
+
+### [Leetcode 1804 Implement Trie II (Prefix Tree)](https://github.com/Dh0le/Leetcode/blob/main/Trie/Leetcode1804.java)
+
 ## Two pointer 双指针问题
 
 ### Arrays 数组应用
