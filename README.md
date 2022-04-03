@@ -16,7 +16,11 @@ Leetcode Question &amp; Solutions
 
 ### [Leetcode 208 Implement Trie (Prefix Tree)](https://github.com/Dh0le/Leetcode/blob/main/Trie/Leetcode208.java)
 
+### [Leetcode 211 Design Add and Search Words Data Structure](https://github.com/Dh0le/Leetcode/blob/main/Trie/Leetcode211.java)
+
 ### [Leetcode 648 Replace Words](https://github.com/Dh0le/Leetcode/blob/main/Trie/Leetcode648.java)
+
+### [Leetcode 677 Map Sum Pairs](https://github.com/Dh0le/Leetcode/blob/main/Trie/Leetcode677.java)
 
 ### [Leetcode 1268 Search Suggestions System](https://github.com/Dh0le/Leetcode/blob/main/Trie/Leetcode1268.java)
 
