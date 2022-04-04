@@ -6,6 +6,8 @@ Leetcode Question &amp; Solutions
 
 ### [Leetcode 875 Koko Eating Bananas](https://github.com/Dh0le/Leetcode/blob/main/BinarySearch/Leetcode875.java)
 
+### [Leetcode 1011 Capacity To Ship Packages Within D Days](https://github.com/Dh0le/Leetcode/blob/main/BinarySearch/Leetcode1011.java)
+
 ## LinkedList 链表问题
 
 ### [Leetcode 25 Reverse Linked List in K group](https://github.com/Dh0le/Leetcode/blob/main/LinkedList/Leetcode25.java)
