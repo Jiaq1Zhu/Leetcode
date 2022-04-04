@@ -2,6 +2,10 @@
 
 Leetcode Question &amp; Solutions
 
+## Binary Search 二分搜索
+
+### [Leetcode 875 Koko Eating Bananas](https://github.com/Dh0le/Leetcode/blob/main/BinarySearch/Leetcode875.java)
+
 ## LinkedList 链表问题
 
 ### [Leetcode 25 Reverse Linked List in K group](https://github.com/Dh0le/Leetcode/blob/main/LinkedList/Leetcode25.java)
