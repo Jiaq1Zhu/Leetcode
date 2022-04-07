@@ -8,6 +8,12 @@ Leetcode Question &amp; Solutions
 
 ### [Leetcode 1011 Capacity To Ship Packages Within D Days](https://github.com/Dh0le/Leetcode/blob/main/BinarySearch/Leetcode1011.java)
 
+## Data Structure 数据结构
+
+### [Leetcode 146 LRU Cache](https://github.com/Dh0le/Leetcode/blob/main/DataStructure/Leetcode146.java)
+
+### [Leetcode 460 LFU Cache](https://github.com/Dh0le/Leetcode/blob/main/DataStructure/Leetcode146.java)
+
 ## LinkedList 链表问题
 
 ### [Leetcode 25 Reverse Linked List in K group](https://github.com/Dh0le/Leetcode/blob/main/LinkedList/Leetcode25.java)
