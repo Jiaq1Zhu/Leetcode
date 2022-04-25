@@ -8,6 +8,10 @@ Leetcode Question &amp; Solutions
 
 ### [Leetcode 1011 Capacity To Ship Packages Within D Days](https://github.com/Dh0le/Leetcode/blob/main/BinarySearch/Leetcode1011.java)
 
+### [Leetcode 1060 Missing Element in Sorted Array](https://github.com/Dh0le/Leetcode/blob/main/BinarySearch/Leetcode1060.java)
+
+### [Leetcode 1539 Kth Missing Positive Number](https://github.com/Dh0le/Leetcode/blob/main/BinarySearch/Leetcode1539.java)
+
 ## Data Structure 数据结构
 
 ### [Leetcode 146 LRU Cache](https://github.com/Dh0le/Leetcode/blob/main/DataStructure/Leetcode146.java)
@@ -81,6 +85,8 @@ Leetcode Question &amp; Solutions
 #### [Leetcode 3 Longest Substring Without Repeating Characters](https://github.com/Dh0le/Leetcode/blob/main/TwoPointers/SlidingWindow/Leetcode3.java)
 
 #### [Leetcode 76 Minimum Window Substring](https://github.com/Dh0le/Leetcode/blob/main/TwoPointers/SlidingWindow/Leetcode76.java)
+
+#### [Leetcode 239 Sliding Window Maximum](https://github.com/Dh0le/Leetcode/blob/main/TwoPointers/SlidingWindow/Leetcode239.java)
 
 #### [Leetcode 438 Find All Anagrams in a String](https://github.com/Dh0le/Leetcode/blob/main/TwoPointers/SlidingWindow/Leetcode438.java)
 
