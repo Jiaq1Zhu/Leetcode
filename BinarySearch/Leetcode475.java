@@ -1,4 +1,4 @@
-public class Heaters {
+public class Leetcode475 {
     public int findRadius(int[] houses, int[] heaters){
         Arrays.sort(heaters);
         int ans = 0;
