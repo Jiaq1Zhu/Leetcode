@@ -4,6 +4,14 @@ Leetcode Question &amp; Solutions
 
 ## Binary Search 二分搜索
 
+### [Leetcode 34 Find First and Last Position of Element in Sorted Array(Python)](https://github.com/Dh0le/Leetcode/blob/main/BinarySearch/python/Leetcode34.py)
+
+### [Leetcode 35 Search Insert Position(Python)](https://github.com/Dh0le/Leetcode/blob/main/BinarySearch/python/Leetcode35.py)
+
+### [Leetcode 704 Binary Search(Python)](https://github.com/Dh0le/Leetcode/blob/main/BinarySearch/python/Leetcode704.py)
+
+### [Leetcode 875 Koko Eating Bananas(Python)](https://github.com/Dh0le/Leetcode/blob/main/BinarySearch/python/Leetcode875.py)
+
 ### [Leetcode 475 Heaters](https://github.com/Dh0le/Leetcode/blob/main/BinarySearch/Leetcode475.java)
 
 ### [Leetcode 875 Koko Eating Bananas](https://github.com/Dh0le/Leetcode/blob/main/BinarySearch/Leetcode875.java)
