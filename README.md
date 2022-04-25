@@ -4,6 +4,8 @@ Leetcode Question &amp; Solutions
 
 ## Binary Search 二分搜索
 
+### [Leetcode 475 Heaters](https://github.com/Dh0le/Leetcode/blob/main/BinarySearch/Leetcode475.java)
+
 ### [Leetcode 875 Koko Eating Bananas](https://github.com/Dh0le/Leetcode/blob/main/BinarySearch/Leetcode875.java)
 
 ### [Leetcode 1011 Capacity To Ship Packages Within D Days](https://github.com/Dh0le/Leetcode/blob/main/BinarySearch/Leetcode1011.java)
