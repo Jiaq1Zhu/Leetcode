@@ -14,6 +14,8 @@ Leetcode Question &amp; Solutions
 
 ### [Leetcode 475 Heaters](https://github.com/Dh0le/Leetcode/blob/main/BinarySearch/Leetcode475.java)
 
+### [Leetcode 162 Find Peak Element](https://github.com/Dh0le/Leetcode/blob/main/BinarySearch/Leetcode162.java)
+
 ### [Leetcode 875 Koko Eating Bananas](https://github.com/Dh0le/Leetcode/blob/main/BinarySearch/Leetcode875.java)
 
 ### [Leetcode 1011 Capacity To Ship Packages Within D Days](https://github.com/Dh0le/Leetcode/blob/main/BinarySearch/Leetcode1011.java)
@@ -46,7 +48,7 @@ Leetcode Question &amp; Solutions
 
 ### [Leetcode 370 Range Addition](https://github.com/Dh0le/Leetcode/blob/main/PrefixSum/Leetcode370.java)
 
-### [Leetcode Corporate Flight Bookings](https://github.com/Dh0le/Leetcode/blob/main/PrefixSum/Leetcode1109.java)
+### [Leetcode 1109 Corporate Flight Bookings](https://github.com/Dh0le/Leetcode/blob/main/PrefixSum/Leetcode1109.java)
 
 ## Trie 前缀树
 
