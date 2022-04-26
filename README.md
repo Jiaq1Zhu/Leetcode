@@ -12,6 +12,8 @@ Leetcode Question &amp; Solutions
 
 ### [Leetcode 875 Koko Eating Bananas(Python)](https://github.com/Dh0le/Leetcode/blob/main/BinarySearch/python/Leetcode875.py)
 
+### [Leetcode 1011 Capacity To Ship Packages Within D Days(Python)](https://github.com/Dh0le/Leetcode/blob/main/BinarySearch/python/Leetcode1011.py)
+
 ### [Leetcode 475 Heaters](https://github.com/Dh0le/Leetcode/blob/main/BinarySearch/Leetcode475.java)
 
 ### [Leetcode 162 Find Peak Element](https://github.com/Dh0le/Leetcode/blob/main/BinarySearch/Leetcode162.java)
