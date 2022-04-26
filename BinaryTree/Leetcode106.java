@@ -1,16 +1,8 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class ReconstructFromPostorderandInorder {
+public class Leetcode106 {
     Map<Integer,Integer> map = new HashMap<>();
-    class TreeNode{
-        int val;
-        TreeNode left;
-        TreeNode right;
-        public TreeNode(int val){
-            this.val = val;
-        }
-    }
     public TreeNode buildTree(int[] postorder, int[] inorder){
         for(int i = 0;i < inorder.length;i++){
             map.put(inorder[i],i);

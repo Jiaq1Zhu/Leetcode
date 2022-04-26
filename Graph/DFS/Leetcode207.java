@@ -17,7 +17,7 @@ public class Leetcode207 {
         }
         int[] visited = new int[numCourses];
         for(int i = 0;i < numCourses;i++){
-            if(!dfs2(graph,visited,i))return false;
+            if(!dfs(graph,visited,i))return false;
         }
         return true;
     }

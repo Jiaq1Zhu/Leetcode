@@ -26,6 +26,22 @@ Leetcode Question &amp; Solutions
 
 ### [Leetcode 1539 Kth Missing Positive Number](https://github.com/Dh0le/Leetcode/blob/main/BinarySearch/Leetcode1539.java)
 
+## Binary Tree 二叉树
+
+### [Leetcode 104 Maximum Depth of Binary Tree](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode314.java)
+
+### [Leetcode 124 Binary Tree Maximum Path Sum](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode124.java)
+
+### [Leetcode 314 Binary Tree Vertical Order Traversal](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode314.java)
+
+### [Leetcode 543 Diameter of Binary Tree](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode543.java)
+
+### [Leetcode 654 Maximum Binary Tree](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode654.java)
+
+### [Leetcode 105 Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode105.java)
+
+### [Leetcode 106 Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode106.java)
+
 ## Data Structure 数据结构
 
 ### [Leetcode 146 LRU Cache](https://github.com/Dh0le/Leetcode/blob/main/DataStructure/Leetcode146.java)

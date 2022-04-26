@@ -1,15 +1,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class ReconstructFromPreorderandInorder {
-    class TreeNode{
-        int val;
-        TreeNode left;
-        TreeNode right;
-        public TreeNode(int val){
-            this.val = val;
-        }
-    }
+public class Leetcode105 {
     Map<Integer,Integer> map = new HashMap<>();
     public TreeNode reconstruct(int[] preorder, int[] inorder){
         for(int i = 0;i < inorder.length;i++){
