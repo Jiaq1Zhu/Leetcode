@@ -28,6 +28,18 @@ Leetcode Question &amp; Solutions
 
 ## Binary Tree 二叉树
 
+### [Leetcode 98 Validate Binary Search Tree](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode98.java)
+
+### [Leetcode 99 Recover Binary Search Tree](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode99.java)
+
+### [Leetcode 100 SameTree](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode100.java)
+
+### [Leetcode 101 Symmetric Tree](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode101.java)
+
+### [Leetcode 102 Binary Tree Level Order Traversal](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode102.java)
+
+### [Leetcode 103 Binary Tree Zigzag Level Order Traversal](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode103.java)
+
 ### [Leetcode 104 Maximum Depth of Binary Tree](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode314.java)
 
 ### [Leetcode 124 Binary Tree Maximum Path Sum](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode124.java)
