@@ -54,6 +54,8 @@ Leetcode Question &amp; Solutions
 
 ### [Leetcode 314 Binary Tree Vertical Order Traversal](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode314.java)
 
+### [Leetcode 515 Find Largest Value in Each Tree Row](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode515.java)
+
 ### [Leetcode 543 Diameter of Binary Tree](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode543.java)
 
 ### [Leetcode 654 Maximum Binary Tree](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode654.java)
