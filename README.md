@@ -34,6 +34,8 @@ Leetcode Question &amp; Solutions
 
 ### [Leetcode 100 SameTree](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode100.java)
 
+### [Leetcode 100 SameTree(Python)](https://github.com/Dh0le/Leetcode/blob/main/BinarySearchTree/Python/Leetcode100.py)
+
 ### [Leetcode 101 Symmetric Tree](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode101.java)
 
 ### [Leetcode 101 Symmetric Tree(Python)](https://github.com/Dh0le/Leetcode/blob/main/BinarySearchTree/Python/Leetcode101.py)
