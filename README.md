@@ -32,6 +32,8 @@ Leetcode Question &amp; Solutions
 
 ### [Leetcode 99 Recover Binary Search Tree](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode99.java)
 
+### [Leetcode 99 Recover Binary Search Tree(Python)](https://github.com/Dh0le/Leetcode/blob/main/BinarySearchTree/Python/Leetcode99.py)
+
 ### [Leetcode 100 SameTree](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode100.java)
 
 ### [Leetcode 100 SameTree(Python)](https://github.com/Dh0le/Leetcode/blob/main/BinarySearchTree/Python/Leetcode100.py)
