@@ -52,6 +52,8 @@ Leetcode Question &amp; Solutions
 
 ### [Leetcode 105 Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode105.java)
 
+### [Leetcode 105 Construct Binary Tree from Preorder and Inorder Traversal(Python)](https://github.com/Dh0le/Leetcode/blob/main/BinarySearchTree/Python/Leetcode105.py)
+
 ### [Leetcode 106 Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode106.java)
 
 ### [Leetcode 124 Binary Tree Maximum Path Sum](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode124.java)
