@@ -36,7 +36,7 @@ Leetcode Question &amp; Solutions
 
 ### [Leetcode 101 Symmetric Tree](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode101.java)
 
-### [Leetcode 101 Symmetric Tree(Python)](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Python/Leetcode101.py)
+### [Leetcode 101 Symmetric Tree(Python)](https://github.com/Dh0le/Leetcode/blob/main/BinarySearchTree/Python/Leetcode101.py)
 
 ### [Leetcode 102 Binary Tree Level Order Traversal](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode102.java)
 
