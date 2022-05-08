@@ -30,6 +30,8 @@ Leetcode Question &amp; Solutions
 
 ### [Leetcode 98 Validate Binary Search Tree](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode98.java)
 
+### [Leetcode 98 Validate Binary Search Tree(Python)](https://github.com/Dh0le/Leetcode/blob/main/BinarySearchTree/Python/Leetcode98.py)
+
 ### [Leetcode 99 Recover Binary Search Tree](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode99.java)
 
 ### [Leetcode 99 Recover Binary Search Tree(Python)](https://github.com/Dh0le/Leetcode/blob/main/BinarySearchTree/Python/Leetcode99.py)
