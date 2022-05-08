@@ -44,6 +44,8 @@ Leetcode Question &amp; Solutions
 
 ### [Leetcode 104 Maximum Depth of Binary Tree](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode314.java)
 
+### [Leetcode 104 Maximum Depth of Binary Tree(Python)](https://github.com/Dh0le/Leetcode/blob/main/BinarySearchTree/Python/Leetcode104.py)
+
 ### [Leetcode 105 Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode105.java)
 
 ### [Leetcode 106 Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode106.java)
