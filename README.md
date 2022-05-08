@@ -40,6 +40,8 @@ Leetcode Question &amp; Solutions
 
 ### [Leetcode 102 Binary Tree Level Order Traversal](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode102.java)
 
+### [Leetcode 102 Binary Tree Level Order Traversal(Python)](https://github.com/Dh0le/Leetcode/blob/main/BinarySearchTree/Python/Leetcode102.py)
+
 ### [Leetcode 103 Binary Tree Zigzag Level Order Traversal](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode103.java)
 
 ### [Leetcode 104 Maximum Depth of Binary Tree](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode314.java)
