@@ -28,6 +28,8 @@ Leetcode Question &amp; Solutions
 
 ## Binary Tree 二叉树
 
+### [Leetcode 95 Unique Binary Search Trees II(Python)](https://github.com/Dh0le/Leetcode/blob/main/BinarySearchTree/Python/Leetcode95.py)
+
 ### [Leetcode 98 Validate Binary Search Tree](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode98.java)
 
 ### [Leetcode 98 Validate Binary Search Tree(Python)](https://github.com/Dh0le/Leetcode/blob/main/BinarySearchTree/Python/Leetcode98.py)
