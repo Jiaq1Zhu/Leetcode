@@ -96,6 +96,8 @@ Leetcode Question &amp; Solutions
 
 ### [Leetcode 25 Reverse Linked List in K group](https://github.com/Dh0le/Leetcode/blob/main/LinkedList/Leetcode25.java)
 
+### [Leetcode 25 Reverse Linked List in K group(Python)](https://github.com/Dh0le/Leetcode/blob/main/LinkedList/Python/Leetcode25.py)
+
 ### [Leetcode 92 Reverse Linked List II](https://github.com/Dh0le/Leetcode/blob/main/LinkedList/Leetcode92.java)
 
 ### [Leetcode 92 Reverse Linked List II(Python)](https://github.com/Dh0le/Leetcode/blob/main/LinkedList/Python/Leetcode92.py)
