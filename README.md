@@ -92,6 +92,8 @@ Leetcode Question &amp; Solutions
 
 ## LinkedList 链表问题
 
+### [Leetcode 19 Remove Nth Node From End of List(Python)](https://github.com/Dh0le/Leetcode/blob/main/LinkedList/Python/Leetcode19.py)
+
 ### [Leetcode 25 Reverse Linked List in K group](https://github.com/Dh0le/Leetcode/blob/main/LinkedList/Leetcode25.java)
 
 ### [Leetcode 92 Reverse Linked List II](https://github.com/Dh0le/Leetcode/blob/main/LinkedList/Leetcode92.java)
