@@ -108,6 +108,8 @@ Leetcode Question &amp; Solutions
 
 ### [Leetcode 141 Linked List Cycle(Python)](https://github.com/Dh0le/Leetcode/blob/main/LinkedList/Python/Leetcode141.py)
 
+### [Leetcode 160 Intersection of Two Linked Lists(Python)](https://github.com/Dh0le/Leetcode/blob/main/LinkedList/Python/Leetcode160.py)
+
 ### [Leetcode 206 Reverse Linked List](https://github.com/Dh0le/Leetcode/blob/main/LinkedList/Leetcode206.java)
 
 ### [Leetcode 206 Reverse Linked List(Python)](https://github.com/Dh0le/Leetcode/blob/main/LinkedList/Python/Leetcode206.py)
