@@ -98,6 +98,8 @@ Leetcode Question &amp; Solutions
 
 ### [Leetcode 92 Reverse Linked List II](https://github.com/Dh0le/Leetcode/blob/main/LinkedList/Leetcode92.java)
 
+### [Leetcode 92 Reverse Linked List II(Python)](https://github.com/Dh0le/Leetcode/blob/main/LinkedList/Python/Leetcode92.py)
+
 ### [Leetcode 206 Reverse Linked List](https://github.com/Dh0le/Leetcode/blob/main/LinkedList/Leetcode206.java)
 
 ### [Leetcode 206 Reverse Linked List(Python)](https://github.com/Dh0le/Leetcode/blob/main/LinkedList/Python/Leetcode206.py)
