@@ -96,6 +96,8 @@ Leetcode Question &amp; Solutions
 
 ### [Leetcode 21 Merge Two Sorted Lists(Python)](https://github.com/Dh0le/Leetcode/blob/main/LinkedList/Python/Leetcode21.py)
 
+### [Leetcode 23 Merge k Sorted Lists(Python)](https://github.com/Dh0le/Leetcode/blob/main/LinkedList/Python/Leetcode23.py)
+
 ### [Leetcode 25 Reverse Linked List in K group](https://github.com/Dh0le/Leetcode/blob/main/LinkedList/Leetcode25.java)
 
 ### [Leetcode 25 Reverse Linked List in K group(Python)](https://github.com/Dh0le/Leetcode/blob/main/LinkedList/Python/Leetcode25.py)
