@@ -28,23 +28,47 @@ Leetcode Question &amp; Solutions
 
 ## Binary Tree 二叉树
 
+### [Leetcode 95 Unique Binary Search Trees II(Python)](https://github.com/Dh0le/Leetcode/blob/main/BinarySearchTree/Python/Leetcode95.py)
+
 ### [Leetcode 98 Validate Binary Search Tree](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode98.java)
+
+### [Leetcode 98 Validate Binary Search Tree(Python)](https://github.com/Dh0le/Leetcode/blob/main/BinarySearchTree/Python/Leetcode98.py)
 
 ### [Leetcode 99 Recover Binary Search Tree](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode99.java)
 
+### [Leetcode 99 Recover Binary Search Tree(Python)](https://github.com/Dh0le/Leetcode/blob/main/BinarySearchTree/Python/Leetcode99.py)
+
 ### [Leetcode 100 SameTree](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode100.java)
+
+### [Leetcode 100 SameTree(Python)](https://github.com/Dh0le/Leetcode/blob/main/BinarySearchTree/Python/Leetcode100.py)
 
 ### [Leetcode 101 Symmetric Tree](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode101.java)
 
+### [Leetcode 101 Symmetric Tree(Python)](https://github.com/Dh0le/Leetcode/blob/main/BinarySearchTree/Python/Leetcode101.py)
+
 ### [Leetcode 102 Binary Tree Level Order Traversal](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode102.java)
+
+### [Leetcode 102 Binary Tree Level Order Traversal(Python)](https://github.com/Dh0le/Leetcode/blob/main/BinarySearchTree/Python/Leetcode102.py)
 
 ### [Leetcode 103 Binary Tree Zigzag Level Order Traversal](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode103.java)
 
+### [Leetcode 103 Binary Tree Zigzag Level Order Traversal(Python)](https://github.com/Dh0le/Leetcode/blob/main/BinarySearchTree/Python/Leetcode103.py)
+
 ### [Leetcode 104 Maximum Depth of Binary Tree](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode314.java)
+
+### [Leetcode 104 Maximum Depth of Binary Tree(Python)](https://github.com/Dh0le/Leetcode/blob/main/BinarySearchTree/Python/Leetcode104.py)
 
 ### [Leetcode 105 Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode105.java)
 
+### [Leetcode 105 Construct Binary Tree from Preorder and Inorder Traversal(Python)](https://github.com/Dh0le/Leetcode/blob/main/BinarySearchTree/Python/Leetcode105.py)
+
 ### [Leetcode 106 Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode106.java)
+
+### [Leetcode 106 Construct Binary Tree from Inorder and Postorder Traversal(Python)](https://github.com/Dh0le/Leetcode/blob/main/BinarySearchTree/Python/Leetcode106.py)
+
+### [Leetcode 107 Binary Tree Level Order Traversal II(Python)](https://github.com/Dh0le/Leetcode/blob/main/BinarySearchTree/Python/Leetcode107.py)
+
+### [Leetcode 109 Convert Sorted List to Binary Search Tree(Python)](https://github.com/Dh0le/Leetcode/blob/main/BinarySearchTree/Python/Leetcode109.py)
 
 ### [Leetcode 124 Binary Tree Maximum Path Sum](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode124.java)
 
@@ -82,13 +106,35 @@ Leetcode Question &amp; Solutions
 
 ## LinkedList 链表问题
 
+### [Leetcode 19 Remove Nth Node From End of List(Python)](https://github.com/Dh0le/Leetcode/blob/main/LinkedList/Python/Leetcode19.py)
+
+### [Leetcode 21 Merge Two Sorted Lists(Python)](https://github.com/Dh0le/Leetcode/blob/main/LinkedList/Python/Leetcode21.py)
+
+### [Leetcode 23 Merge k Sorted Lists(Python)](https://github.com/Dh0le/Leetcode/blob/main/LinkedList/Python/Leetcode23.py)
+
 ### [Leetcode 25 Reverse Linked List in K group](https://github.com/Dh0le/Leetcode/blob/main/LinkedList/Leetcode25.java)
+
+### [Leetcode 25 Reverse Linked List in K group(Python)](https://github.com/Dh0le/Leetcode/blob/main/LinkedList/Python/Leetcode25.py)
+
+### [Leetcode 83 Remove Duplicates from Sorted List(Python)](https://github.com/Dh0le/Leetcode/blob/main/LinkedList/Python/Leetcode83.py)
 
 ### [Leetcode 92 Reverse Linked List II](https://github.com/Dh0le/Leetcode/blob/main/LinkedList/Leetcode92.java)
 
+### [Leetcode 92 Reverse Linked List II(Python)](https://github.com/Dh0le/Leetcode/blob/main/LinkedList/Python/Leetcode92.py)
+
+### [Leetcode 141 Linked List Cycle(Python)](https://github.com/Dh0le/Leetcode/blob/main/LinkedList/Python/Leetcode141.py)
+
+### [Leetcode 142 Linked List Cycle II(Python)](https://github.com/Dh0le/Leetcode/blob/main/LinkedList/Python/Leetcode142.py)
+
+### [Leetcode 160 Intersection of Two Linked Lists(Python)](https://github.com/Dh0le/Leetcode/blob/main/LinkedList/Python/Leetcode160.py)
+
 ### [Leetcode 206 Reverse Linked List](https://github.com/Dh0le/Leetcode/blob/main/LinkedList/Leetcode206.java)
 
+### [Leetcode 206 Reverse Linked List(Python)](https://github.com/Dh0le/Leetcode/blob/main/LinkedList/Python/Leetcode206.py)
+
 ### [Leetcode 234 Palindrome Linked List](https://github.com/Dh0le/Leetcode/blob/main/LinkedList/Leetcode234.java)
+
+### [Leetcode 234 Palindrome Linked List(Python)](https://github.com/Dh0le/Leetcode/blob/main/LinkedList/Python/Leetcode234.py)
 
 ## Prefix Sum Array 前缀和数组
 
