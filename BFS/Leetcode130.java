@@ -1,4 +1,8 @@
 public class Leetcode130 {
+    /**
+     * In this problem, we start from every cell at border to and switch it to another letter. Then we change every cell to X.
+     * @param board
+     */
     public void solve(char[][] board) {
         if(board == null || board.length == 0 || board[0].length == 0)return ;
         int m = board.length, n = board[0].length;
