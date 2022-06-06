@@ -92,6 +92,12 @@ Leetcode Question &amp; Solutions
 
 ### [Leetcode 210. Course Schedule II](https://github.com/Dh0le/Leetcode/blob/main/BFS/Leetcode210.java)
 
+### [Leetcode 513 Find Bottom Left Tree Value(TODO)](https://github.com/Dh0le/Leetcode/blob/main/BFS/Leetcode513.java)
+
+### [Leetcode 515 Find Largest Value in Each Tree Row ](https://github.com/Dh0le/Leetcode/blob/main/BFS/Leetcode515.java)
+
+### [Leetcode 529 Minesweeper ](https://github.com/Dh0le/Leetcode/blob/main/BFS/Leetcode529.java)
+
 ### [Leetcode 785 Is Graph Bipartite?](https://github.com/Dh0le/Leetcode/blob/main/BFS/Leetcode785.java)
 
 ### [Leetcode 994. Rotting Oranges](https://github.com/Dh0le/Leetcode/blob/main/BFS/Leetcode994.java)
