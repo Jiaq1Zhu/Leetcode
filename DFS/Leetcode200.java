@@ -1,30 +1,25 @@
 class Leetcode200{
-    public int numberOfIsland(char[][] grid){
-        if(grid == null || grid.length == 0 || grid[0].length == 0)return 0;
-        int res= 0;
-        for(int y = 0; y < grid.length;y++){
-            for(int x = 0; x < grid[0].length;x++){
-                if(grid[y][x] == '1'){
-                    dfs(grid,x,y);
+    public int numIslands(char[][] grid) {
+        int res = 0;
+        if(grid == null || grid.length ==0 || grid[0].length == 0)return 0;
+        for(int i = 0;i < grid.length;i++){
+            for(int j = 0;j <grid[0].length;j++){
+                if(grid[i][j] == '1'){
+                    dfs(grid,i,j);
                     res++;
                 }
             }
         }
         return res;
     }
-    private void dfs(char[][] grid, int x, int y){
-        int row = grid.length, col = grid[0].length;
-        if(!inbound(row,col,x,y) || grid[y][x] == '0')return;
-        else {
-            grid[y][x] = '0';
-            dfs(grid,x+1,y);
-            dfs(grid,x-1,y);
-            dfs(grid,x,y+1);
-            dfs(grid,x,y-1);
+    
+    
+    int[][] dirs = new int[][]{{1,0},{-1,0},{0,1},{0,-1}};
+    private void dfs(char[][] grid,int i , int j){
+        if(i < 0 ||i >= grid.length|| j < 0 || j >= grid[0].length ||  grid[i][j] == '0')return;
+        grid[i][j] = '0';
+        for(int[] dir:dirs){
+            dfs(grid,i+dir[0],j+dir[1]);
         }
-    }
-    private boolean inbound(int row, int col, int x, int y){
-        if(x < 0 || x >= col || y < 0 || y >= row)return false;
-        return true;
     }
 }

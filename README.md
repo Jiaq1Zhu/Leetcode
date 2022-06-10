@@ -100,9 +100,25 @@ Leetcode Question &amp; Solutions
 
 ### [Leetcode 785 Is Graph Bipartite?](https://github.com/Dh0le/Leetcode/blob/main/BFS/Leetcode785.java)
 
-### [Leetcode 994. Rotting Oranges](https://github.com/Dh0le/Leetcode/blob/main/BFS/Leetcode994.java)
+### [Leetcode 994 Rotting Oranges](https://github.com/Dh0le/Leetcode/blob/main/BFS/Leetcode994.java)
 
 ## Depth-first search 广度优先搜索
+
+### [Leetcode 39 Combination Sum](https://github.com/Dh0le/Leetcode/blob/main/DFS/Leetcode39.java)
+
+### [Leetcode 40 Combination Sum II](https://github.com/Dh0le/Leetcode/blob/main/DFS/Leetcode40.java)
+
+### [Leetcode 46 Permutations](https://github.com/Dh0le/Leetcode/blob/main/DFS/Leetcode46.java)
+
+### [Leetcode 47 Permutations II](https://github.com/Dh0le/Leetcode/blob/main/DFS/Leetcode47.java)
+
+### [Leetcode 77 Combinations](https://github.com/Dh0le/Leetcode/blob/main/DFS/Leetcode77.java)
+
+### [Leetcode 78 Subsets](https://github.com/Dh0le/Leetcode/blob/main/DFS/Leetcode78.java)
+
+### [Leetcode 90 Subsets II](https://github.com/Dh0le/Leetcode/blob/main/DFS/Leetcode90.java)
+
+### [Leetcode 216 Combination Sum III](https://github.com/Dh0le/Leetcode/blob/main/DFS/Leetcode216.java)
 
 ## Data Structure 数据结构
 
