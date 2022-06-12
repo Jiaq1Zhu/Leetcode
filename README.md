@@ -166,7 +166,17 @@ Leetcode Question &amp; Solutions
 
 ### [Leetcode 370 Range Addition](https://github.com/Dh0le/Leetcode/blob/main/PrefixSum/Leetcode370.java)
 
+### [Leetcode 528 Random Pick with Weight](https://github.com/Dh0le/Leetcode/blob/main/PrefixSum/Leetcode528.java)
+
+### [Leetcode 724 Find Pivot Index](https://github.com/Dh0le/Leetcode/blob/main/PrefixSum/Leetcode724.java)
+
 ### [Leetcode 1109 Corporate Flight Bookings](https://github.com/Dh0le/Leetcode/blob/main/PrefixSum/Leetcode1109.java)
+
+### [Leetcode 1177 Can Make Palindrome from Substring](https://github.com/Dh0le/Leetcode/blob/main/PrefixSum/Leetcode1177.java)
+
+### [Leetcode 1413 Minimum Value to Get Positive Step by Step Sum](https://github.com/Dh0le/Leetcode/blob/main/PrefixSum/Leetcode1413.java)
+
+### [Leetcode 1588 Sum of All Odd Length Subarrays(This is not a easy, it is actually hard)](https://github.com/Dh0le/Leetcode/blob/main/PrefixSum/Leetcode1588.java)
 
 ## Trie 前缀树
 
