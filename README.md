@@ -174,9 +174,15 @@ Leetcode Question &amp; Solutions
 
 ### [Leetcode 1177 Can Make Palindrome from Substring](https://github.com/Dh0le/Leetcode/blob/main/PrefixSum/Leetcode1177.java)
 
-### [Leetcode 1413 Minimum Value to Get Positive Step by Step Sum](https://github.com/Dh0le/Leetcode/blob/main/PrefixSum/Leetcode1413.java)
+### [Leetcode 1413 Minimum Value to Get Positive Step by Step Sum](https://github.com/Dh0le/Leetcode/blob/main/PrefixSum/Leetcode1413.java)\
+
+### [Leetcode 1480 Running Sum of 1d Array](https://github.com/Dh0le/Leetcode/blob/main/PrefixSum/Leetcode1480.java)
 
 ### [Leetcode 1588 Sum of All Odd Length Subarrays(This is not a easy, it is actually hard)](https://github.com/Dh0le/Leetcode/blob/main/PrefixSum/Leetcode1588.java)
+
+### [Leetcode 1732 Find the Highest Altitude](https://github.com/Dh0le/Leetcode/blob/main/PrefixSum/Leetcode1732.java)
+
+### [Leetcode 1893 Check if All the Integers in a Range Are Covered](https://github.com/Dh0le/Leetcode/blob/main/PrefixSum/Leetcode1893.java)
 
 ## Trie 前缀树
 
