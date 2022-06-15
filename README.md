@@ -170,11 +170,15 @@ Leetcode Question &amp; Solutions
 
 ### [Leetcode 724 Find Pivot Index](https://github.com/Dh0le/Leetcode/blob/main/PrefixSum/Leetcode724.java)
 
+### [Leetcode 930 Binary Subarrays With Sum](https://github.com/Dh0le/Leetcode/blob/main/PrefixSum/Leetcode930.java)
+
+### [Leetcode 974 Subarray Sums Divisible by K](https://github.com/Dh0le/Leetcode/blob/main/PrefixSum/Leetcode974.java)
+
 ### [Leetcode 1109 Corporate Flight Bookings](https://github.com/Dh0le/Leetcode/blob/main/PrefixSum/Leetcode1109.java)
 
 ### [Leetcode 1177 Can Make Palindrome from Substring](https://github.com/Dh0le/Leetcode/blob/main/PrefixSum/Leetcode1177.java)
 
-### [Leetcode 1413 Minimum Value to Get Positive Step by Step Sum](https://github.com/Dh0le/Leetcode/blob/main/PrefixSum/Leetcode1413.java)\
+### [Leetcode 1413 Minimum Value to Get Positive Step by Step Sum](https://github.com/Dh0le/Leetcode/blob/main/PrefixSum/Leetcode1413.java)
 
 ### [Leetcode 1480 Running Sum of 1d Array](https://github.com/Dh0le/Leetcode/blob/main/PrefixSum/Leetcode1480.java)
 
