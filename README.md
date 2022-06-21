@@ -80,6 +80,8 @@ Leetcode Question &amp; Solutions
 
 ### [Leetcode 515 Find Largest Value in Each Tree Row](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode515.java)
 
+### [Leetcode 530 Minimum Absolute Difference in BST](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode530.java)
+
 ### [Leetcode 543 Diameter of Binary Tree](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode543.java)
 
 ### [Leetcode 654 Maximum Binary Tree](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode654.java)
@@ -261,6 +263,10 @@ Leetcode Question &amp; Solutions
 ### [Leetcode 1143 Longest Common subsequence](https://github.com/Dh0le/Leetcode/blob/main/DP/Leetcode1143.java)
 
 ## Graph 图算法
+
+### Floyd Algorithm 弗洛伊德算法
+
+#### [Leetcode 1334. Find the City With the Smallest...](https://github.com/Dh0le/Leetcode/blob/main/Graph/FloydAlgorithm/Leetcode1334.java)
 
 ### BFS 广度优先搜索
 
