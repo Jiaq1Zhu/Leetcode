@@ -10,9 +10,11 @@ public class AnalyzeProfit {
         }
         // let's have a res number to store the max profit
         int res = 0;
-        // then we iterator through this prefixSum array and search subarray sum with given length;
-        for(int i = 0;i+ k < prefixSum.length;i++){
-            res = Math.max(res,prefixSum[i+k]-prefixSum[i]);
+        // then we iterator through this prefixSum array and search subarray sum within given length;
+        for(int length = 1;length <= k;k++){
+            for(int i = 0;i+ length < prefixSum.length;i++){
+                res = Math.max(res,prefixSum[i+length]-prefixSum[i]);
+            }
         }
         return res;
     }
