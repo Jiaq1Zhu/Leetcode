@@ -266,7 +266,15 @@ Leetcode Question &amp; Solutions
 
 ### Floyd Algorithm 弗洛伊德算法
 
-#### [Leetcode 1334. Find the City With the Smallest...](https://github.com/Dh0le/Leetcode/blob/main/Graph/FloydAlgorithm/Leetcode1334.java)
+#### [Leetcode 1334 Find the City With the Smallest...](https://github.com/Dh0le/Leetcode/blob/main/Graph/FloydAlgorithm/Leetcode1334.java)
+
+### Dijkstra Algorithm 迪杰斯特拉算法
+
+#### [Leetcode 734 Network Delay Time](https://github.com/Dh0le/Leetcode/blob/main/Graph/Dijkstra/Leetcode743.java)
+
+#### [Leetcode 1514 Path with Maximum Probability](https://github.com/Dh0le/Leetcode/blob/main/Graph/Dijkstra/Leetcode1514.java)
+
+#### [Leetcode 1631 Path With Minimum Effort](https://github.com/Dh0le/Leetcode/blob/main/Graph/Dijkstra/Leetcode1613.java)
 
 ### BFS 广度优先搜索
 
