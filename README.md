@@ -290,7 +290,7 @@ Leetcode Question &amp; Solutions
 
 #### [Leetcode 785 Is Graph Bipartite?](https://github.com/Dh0le/Leetcode/blob/main/Graph/GraphBiparted/Leetcode785.java)
 
-#### [Leetcode 785 Possible Bipartition](https://github.com/Dh0le/Leetcode/blob/main/Graph/GraphBiparted/Leetcode886.java)
+#### [Leetcode 886 Possible Bipartition](https://github.com/Dh0le/Leetcode/blob/main/Graph/GraphBiparted/Leetcode886.java)
 
 ### Celebrity Problem 名流问题
 
