@@ -15,9 +15,9 @@ public class Leetcode743 {
         }
     }    
 
-    private int[] dijkstra(int start, List<E> graph){
+    private int[] dijkstra(int start, List<int[]>[] graph){
         // dp table for distance from start to each node
-        int[] distTo = new int[graph.length];
+        int[] distTo = new int[graph.length];   
 
         // initialize dp table
         Arrays.fill(distTo,Integer.MAX_VALUE);
