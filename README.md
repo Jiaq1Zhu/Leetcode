@@ -78,6 +78,8 @@ Leetcode Question &amp; Solutions
 
 ### [Leetcode 1650 Lowest Common Ancestor of a Binary Tree III ](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode1650.java)
 
+### [Leetcode 1676 Lowest Common Ancestor of a Binary Tree IV ](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode1676.java)
+
 ### [Leetcode 272 Closest Binary Search Tree Value II](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode298.java)
 
 ### [Leetcode 298 Binary Tree Longest Consecutive Sequence](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode298.java)
