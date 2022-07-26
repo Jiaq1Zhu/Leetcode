@@ -268,6 +268,8 @@ Leetcode Question &amp; Solutions
 
 ### [Leetcode 72 Edit Distance](https://github.com/Dh0le/Leetcode/blob/main/DP/Leetcode72.java)
 
+### [Leetcode 300 Longest increasing subsequence](https://github.com/Dh0le/Leetcode/blob/main/DP/Leetcode300.java)
+
 ### [Leetcode 907 Sum of Subarray Minimums](https://github.com/Dh0le/Leetcode/blob/main/DP/Leetcode907.java)
 
 ### [Leetcode 1143 Longest Common subsequence](https://github.com/Dh0le/Leetcode/blob/main/DP/Leetcode1143.java)
