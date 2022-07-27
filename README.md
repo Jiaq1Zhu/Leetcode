@@ -270,6 +270,10 @@ Leetcode Question &amp; Solutions
 
 ### [Leetcode 300 Longest increasing subsequence](https://github.com/Dh0le/Leetcode/blob/main/DP/Leetcode300.java)
 
+### [Leetcode 583 Delete Operation for Two Strings](https://github.com/Dh0le/Leetcode/blob/main/DP/Leetcode583.java)
+
+### [Leetcode 712 Minimum ASCII Delete Sum for Two Strings](https://github.com/Dh0le/Leetcode/blob/main/DP/Leetcode712.java)
+
 ### [Leetcode 907 Sum of Subarray Minimums](https://github.com/Dh0le/Leetcode/blob/main/DP/Leetcode907.java)
 
 ### [Leetcode 1143 Longest Common subsequence](https://github.com/Dh0le/Leetcode/blob/main/DP/Leetcode1143.java)

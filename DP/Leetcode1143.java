@@ -1,5 +1,6 @@
 public class LongestCommonSubsequence {
     public int lcs(String str1, String str2){
+        // in this case, we dp[i][j] means the longest common subsequence at length i with str1 and j with str2
         int m = str1.length(), n = str2.length();
         int[][] dp = new int[m+1][n+1];
         for(int i = 0;i <= m;i++){
