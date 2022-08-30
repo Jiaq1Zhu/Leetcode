@@ -327,3 +327,13 @@ Leetcode Question &amp; Solutions
 #### [Leetcode 1135 Connecting Cities With Minimum Cost](https://github.com/Dh0le/Leetcode/blob/main/Graph/UnionFind/Leetcode1135.java)
 
 #### [Leetcode 1584 Min Cost to Connect All Points](https://github.com/Dh0le/Leetcode/blob/main/Graph/UnionFind/Kruskal/Leetcode1584.java)
+
+### String 字符串相关问题
+
+#### [Leetcode 161 One Edit Distance](https://github.com/Dh0le/Leetcode/blob/main/String/Leetcode161.java)
+
+#### [Leetcode 418 Sentence Screen Fitting](https://github.com/Dh0le/Leetcode/blob/main/String/Leetcode418.java)
+
+#### [Leetcode 696 Count Binary Substrings](https://github.com/Dh0le/Leetcode/blob/main/String/Leetcode696.java)
+
+#### [Leetcode 926 Count Binary Substrings](https://github.com/Dh0le/Leetcode/blob/main/String/Leetcode926.java)
