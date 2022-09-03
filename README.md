@@ -264,6 +264,8 @@ Leetcode Question &amp; Solutions
 
 ### [Leetcode 907 Sum of Subarray Minimums](https://github.com/Dh0le/Leetcode/blob/main/Stack/Leetcode907.java)
 
+### [Leetcode 503. Next Greater Element II](https://github.com/Dh0le/Leetcode/blob/main/MonotoneStack/Python/Leetcode503.py)
+
 ## Stack 栈问题
 
 ### [Leetcode 150 Evaluate Reverse Polish Notation](https://github.com/Dh0le/Leetcode/blob/main/Stack/Leetcode150.java)
