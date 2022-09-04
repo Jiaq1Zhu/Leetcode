@@ -94,6 +94,8 @@ Leetcode Question &amp; Solutions
 
 ### [Leetcode 543 Diameter of Binary Tree](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode543.java)
 
+### [Leetcode 545 Boundary of Binary Tree](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode543.java)
+
 ### [Leetcode 654 Maximum Binary Tree](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode654.java)
 
 ## Breadth-first search 广度优先搜索
