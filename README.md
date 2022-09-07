@@ -352,6 +352,8 @@ Leetcode Question &amp; Solutions
 
 #### [Leetcode 926 Count Binary Substrings](https://github.com/Dh0le/Leetcode/blob/main/String/Leetcode926.java)
 
+#### [Leetcode 1864 Minimum Number of Swaps to Make the Binary String Alternating](https://github.com/Dh0le/Leetcode/blob/main/String/Leetcode1864.java)
+
 ### Heap 堆相关问题
 
 #### [Leetcode 253 Meeting Rooms II](https://github.com/Dh0le/Leetcode/blob/main/Heap/Leetcode253.java)
