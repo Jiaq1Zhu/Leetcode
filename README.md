@@ -359,3 +359,11 @@ Leetcode Question &amp; Solutions
 ### Heap 堆相关问题
 
 #### [Leetcode 253 Meeting Rooms II](https://github.com/Dh0le/Leetcode/blob/main/Heap/Leetcode253.java)
+
+#### [Leetcode 973 K Closest Points to Origin](https://github.com/Dh0le/Leetcode/blob/main/Heap/Leetcode973.java)
+
+#### [Leetcode 1167 Minimum Cost to Connect Sticks](https://github.com/Dh0le/Leetcode/blob/main/Heap/Leetcode1167.java)
+
+#### [Leetcode 1353 Maximum Number of Events That Can Be Attended](https://github.com/Dh0le/Leetcode/blob/main/Heap/Leetcode1353.java)
+
+#### [Leetcode 2268 Minimum Number of Keypresses](https://github.com/Dh0le/Leetcode/blob/main/Heap/Leetcode2268.java)
