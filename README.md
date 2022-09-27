@@ -256,6 +256,8 @@ Leetcode Question &amp; Solutions
 
 #### [Leetcode 3 Longest Substring Without Repeating Characters](https://github.com/Dh0le/Leetcode/blob/main/TwoPointers/SlidingWindow/Leetcode3.java)
 
+#### [Leetcode 424 Longest Repeating Character Replacement](https://github.com/Dh0le/Leetcode/blob/main/TwoPointers/SlidingWindow/Leetcode424.java)
+
 #### [Leetcode 76 Minimum Window Substring](https://github.com/Dh0le/Leetcode/blob/main/TwoPointers/SlidingWindow/Leetcode76.java)
 
 #### [Leetcode 239 Sliding Window Maximum](https://github.com/Dh0le/Leetcode/blob/main/TwoPointers/SlidingWindow/Leetcode239.java)
@@ -369,3 +371,7 @@ Leetcode Question &amp; Solutions
 #### [Leetcode 1353 Maximum Number of Events That Can Be Attended](https://github.com/Dh0le/Leetcode/blob/main/Heap/Leetcode1353.java)
 
 #### [Leetcode 2268 Minimum Number of Keypresses](https://github.com/Dh0le/Leetcode/blob/main/Heap/Leetcode2268.java)
+
+### SegmentTree 线段树
+
+#### [线段树模板](https://github.com/Dh0le/Leetcode/blob/main/SegmentTree/SegmentTreeTemplate.java)
