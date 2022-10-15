@@ -122,6 +122,8 @@ Leetcode Question &amp; Solutions
 
 ## Depth-first search 深度优先搜索
 
+### [Leetcode 22 Generate Parentheses](https://github.com/Dh0le/Leetcode/blob/main/DFS/Leetcode22.java)
+
 ### [Leetcode 39 Combination Sum](https://github.com/Dh0le/Leetcode/blob/main/DFS/Leetcode39.java)
 
 ### [Leetcode 40 Combination Sum II](https://github.com/Dh0le/Leetcode/blob/main/DFS/Leetcode40.java)
@@ -275,6 +277,10 @@ Leetcode Question &amp; Solutions
 ### [Leetcode 503. Next Greater Element II](https://github.com/Dh0le/Leetcode/blob/main/MonotoneStack/Python/Leetcode503.py)
 
 ## Stack 栈问题
+
+### [Leetcode 20 Valid Parentheses](https://github.com/Dh0le/Leetcode/blob/main/Stack/Leetcode155.java)
+
+### [Leetcode 155 Min Stack](https://github.com/Dh0le/Leetcode/blob/main/Stack/Leetcode155.java)
 
 ### [Leetcode 150 Evaluate Reverse Polish Notation](https://github.com/Dh0le/Leetcode/blob/main/Stack/Leetcode150.java)
 
