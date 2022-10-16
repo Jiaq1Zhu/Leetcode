@@ -272,11 +272,15 @@ Leetcode Question &amp; Solutions
 
 ## Monotonous stack 单调栈问题
 
-### [Leetcode 739 Daily Temperatures](https://github.com/Dh0le/Leetcode/blob/main/Stack/Leetcode907.java)
+### [Leetcode 84 Largest Rectangle in Histogram](https://github.com/Dh0le/Leetcode/blob/main/Stack/Leetcode84.java)
+
+### [Leetcode 739 Daily Temperatures](https://github.com/Dh0le/Leetcode/blob/main/Stack/Leetcode739.java)
 
 ### [Leetcode 907 Sum of Subarray Minimums](https://github.com/Dh0le/Leetcode/blob/main/Stack/Leetcode907.java)
 
 ### [Leetcode 503. Next Greater Element II](https://github.com/Dh0le/Leetcode/blob/main/MonotoneStack/Python/Leetcode503.py)
+
+### [Leetcode 2104 Sum of Subarray Ranges](https://github.com/Dh0le/Leetcode/blob/main/MonotoneStack/Python/Leetcode2104.py)
 
 ## Stack 栈问题
 
