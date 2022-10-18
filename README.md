@@ -238,6 +238,8 @@ Leetcode Question &amp; Solutions
 
 #### [Leetcode 27 Remove Element](https://github.com/Dh0le/Leetcode/blob/main/TwoPointers/Array/Leetcode27.java)
 
+#### [Leetcode 287 Find the Duplicate Number](https://github.com/Dh0le/Leetcode/blob/main/TwoPointers/Array/Leetcode287.java)
+
 #### [Leetcode 283 Move zeros](https://github.com/Dh0le/Leetcode/blob/main/TwoPointers/Array/Leetcode283.java)
 
 ### LinkedList 链表应用
