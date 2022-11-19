@@ -368,6 +368,8 @@ Leetcode Question &amp; Solutions
 
 #### [Leetcode 161 One Edit Distance](https://github.com/Dh0le/Leetcode/blob/main/String/Leetcode161.java)
 
+#### [Leetcode 299 Bulls and Cows](https://github.com/Dh0le/Leetcode/blob/main/String/Leetcode299.java)
+
 #### [Leetcode 418 Sentence Screen Fitting](https://github.com/Dh0le/Leetcode/blob/main/String/Leetcode418.java)
 
 #### [Leetcode 696 Count Binary Substrings](https://github.com/Dh0le/Leetcode/blob/main/String/Leetcode696.java)
