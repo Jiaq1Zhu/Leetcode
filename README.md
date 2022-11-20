@@ -134,6 +134,8 @@ Leetcode Question &amp; Solutions
 
 ### [Leetcode 47 Permutations II](https://github.com/Dh0le/Leetcode/blob/main/DFS/Leetcode47.java)
 
+### [Leetcode 51 N-Queens](https://github.com/Dh0le/Leetcode/blob/main/DFS/Leetcode51.java)
+
 ### [Leetcode 77 Combinations](https://github.com/Dh0le/Leetcode/blob/main/DFS/Leetcode77.java)
 
 ### [Leetcode 78 Subsets](https://github.com/Dh0le/Leetcode/blob/main/DFS/Leetcode78.java)
