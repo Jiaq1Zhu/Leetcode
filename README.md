@@ -140,6 +140,8 @@ Leetcode Question &amp; Solutions
 
 ### [Leetcode 78 Subsets](https://github.com/Dh0le/Leetcode/blob/main/DFS/Leetcode78.java)
 
+### [Leetcode 79 Word Search](https://github.com/Dh0le/Leetcode/blob/main/DFS/Leetcode79.java)
+
 ### [Leetcode 90 Subsets II](https://github.com/Dh0le/Leetcode/blob/main/DFS/Leetcode90.java)
 
 ### [Leetcode 216 Combination Sum III](https://github.com/Dh0le/Leetcode/blob/main/DFS/Leetcode216.java)
