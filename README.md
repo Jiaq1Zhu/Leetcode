@@ -102,6 +102,8 @@ Leetcode Question &amp; Solutions
 
 ### [Leetcode 654 Maximum Binary Tree](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode654.java)
 
+### [Leetcode 1361 Validate Binary Tree Nodes](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode1361.java) 
+
 ## Breadth-first search 广度优先搜索
 
 ### [Leetcode 111 Minimum Depth of Binary Tree](https://github.com/Dh0le/Leetcode/blob/main/BFS/Leetcode111.java)
