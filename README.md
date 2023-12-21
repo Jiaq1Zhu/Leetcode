@@ -238,6 +238,11 @@ Leetcode Question &amp; Solutions
 
 ### [Leetcode 1804 Implement Trie II (Prefix Tree)](https://github.com/Dh0le/Leetcode/blob/main/Trie/Leetcode1804.java)
 
+## Arrays 数组问题
+
+### [Leetcode 1637 Widest Vertical Area Between Two Points Containing No Points](https://github.com/Dh0le/Leetcode/blob/main/Array/Leetcode1637.java)
+
+
 ## Two pointer 双指针问题
 
 ### Arrays 数组应用
@@ -251,6 +256,7 @@ Leetcode Question &amp; Solutions
 #### [Leetcode 287 Find the Duplicate Number](https://github.com/Dh0le/Leetcode/blob/main/TwoPointers/Array/Leetcode287.java)
 
 #### [Leetcode 283 Move zeros](https://github.com/Dh0le/Leetcode/blob/main/TwoPointers/Array/Leetcode283.java)
+
 
 ### LinkedList 链表应用
 
