@@ -104,6 +104,8 @@ Leetcode Question &amp; Solutions
 
 ### [Leetcode 1361 Validate Binary Tree Nodes](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode1361.java) 
 
+### [Leetcode 1660 Correct a Binary Tree](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode1660.java) 
+
 ### [Leetcode 1666 Change the Root of a Binary Tree](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode1666.java) 
 
 ## Breadth-first search 广度优先搜索
