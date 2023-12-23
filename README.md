@@ -216,6 +216,8 @@ Leetcode Question &amp; Solutions
 
 ### [Leetcode 1413 Minimum Value to Get Positive Step by Step Sum](https://github.com/Dh0le/Leetcode/blob/main/PrefixSum/Leetcode1413.java)
 
+### [Leetcode 1422 Maximum Score After Splitting a String](https://github.com/Dh0le/Leetcode/blob/main/PrefixSum/Leetcode1422.java)
+
 ### [Leetcode 1480 Running Sum of 1d Array](https://github.com/Dh0le/Leetcode/blob/main/PrefixSum/Leetcode1480.java)
 
 ### [Leetcode 1588 Sum of All Odd Length Subarrays(This is not a easy, it is actually hard)](https://github.com/Dh0le/Leetcode/blob/main/PrefixSum/Leetcode1588.java)
