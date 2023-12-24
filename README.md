@@ -394,6 +394,8 @@ Leetcode Question &amp; Solutions
 
 #### [Leetcode 926 Count Binary Substrings](https://github.com/Dh0le/Leetcode/blob/main/String/Leetcode926.java)
 
+#### [Leetcode 1758 Minimum Changes To Make Alternating Binary String](https://github.com/Dh0le/Leetcode/blob/main/String/Leetcode1758.java)
+
 #### [Leetcode 1864 Minimum Number of Swaps to Make the Binary String Alternating](https://github.com/Dh0le/Leetcode/blob/main/String/Leetcode1864.java)
 
 ### Heap 堆相关问题
