@@ -58,6 +58,8 @@ Leetcode Question &amp; Solutions
 
 ### [Leetcode 104 Maximum Depth of Binary Tree](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode314.java)
 
+### [Leetcode 666 Path Sum IV](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode666.java)
+
 ### [Leetcode 104 Maximum Depth of Binary Tree(Python)](https://github.com/Dh0le/Leetcode/blob/main/BinarySearchTree/Python/Leetcode104.py)
 
 ### [Leetcode 105 Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode105.java)
@@ -102,11 +104,11 @@ Leetcode Question &amp; Solutions
 
 ### [Leetcode 654 Maximum Binary Tree](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode654.java)
 
-### [Leetcode 1361 Validate Binary Tree Nodes](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode1361.java) 
+### [Leetcode 1361 Validate Binary Tree Nodes](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode1361.java)
 
-### [Leetcode 1660 Correct a Binary Tree](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode1660.java) 
+### [Leetcode 1660 Correct a Binary Tree](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode1660.java)
 
-### [Leetcode 1666 Change the Root of a Binary Tree](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode1666.java) 
+### [Leetcode 1666 Change the Root of a Binary Tree](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode1666.java)
 
 ## Breadth-first search 广度优先搜索
 
@@ -159,6 +161,12 @@ Leetcode Question &amp; Solutions
 ### [Leetcode 146 LRU Cache](https://github.com/Dh0le/Leetcode/blob/main/DataStructure/Leetcode146.java)
 
 ### [Leetcode 460 LFU Cache](https://github.com/Dh0le/Leetcode/blob/main/DataStructure/Leetcode146.java)
+
+## Design 设计类问题
+
+### [Leetcode 348 Design Tic-Tac-Toe](https://github.com/Dh0le/Leetcode/blob/main/Design/Leetcode348.java)
+
+### [Leetcode 588 Design In-Memory File System](https://github.com/Dh0le/Leetcode/blob/main/Design/Leetcode588.java)
 
 ## LinkedList 链表问题
 
@@ -244,7 +252,6 @@ Leetcode Question &amp; Solutions
 
 ### [Leetcode 1637 Widest Vertical Area Between Two Points Containing No Points](https://github.com/Dh0le/Leetcode/blob/main/Array/Leetcode1637.java)
 
-
 ## Two pointer 双指针问题
 
 ### Arrays 数组应用
@@ -258,7 +265,6 @@ Leetcode Question &amp; Solutions
 #### [Leetcode 287 Find the Duplicate Number](https://github.com/Dh0le/Leetcode/blob/main/TwoPointers/Array/Leetcode287.java)
 
 #### [Leetcode 283 Move zeros](https://github.com/Dh0le/Leetcode/blob/main/TwoPointers/Array/Leetcode283.java)
-
 
 ### LinkedList 链表应用
 
@@ -311,6 +317,12 @@ Leetcode Question &amp; Solutions
 ### [Leetcode 155 Min Stack](https://github.com/Dh0le/Leetcode/blob/main/Stack/Leetcode155.java)
 
 ### [Leetcode 150 Evaluate Reverse Polish Notation](https://github.com/Dh0le/Leetcode/blob/main/Stack/Leetcode150.java)
+
+### [Leetcode 224 Basic Calculator](https://github.com/Dh0le/Leetcode/blob/main/Stack/Leetcode224.java)
+
+### [Leetcode 227 Basic Calculator II](https://github.com/Dh0le/Leetcode/blob/main/Stack/Leetcode227.java)
+
+### [Leetcode 772 Basic Calculator III](https://github.com/Dh0le/Leetcode/blob/main/Stack/Leetcode772.java)
 
 ## DP 动态规划
 
