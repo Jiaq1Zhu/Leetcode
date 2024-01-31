@@ -130,6 +130,8 @@ Leetcode Question &amp; Solutions
 
 ### [Leetcode 419 Battleships in a Board](https://github.com/Dh0le/Leetcode/blob/main/BFS/Leetcode785.java)
 
+### [Leetcode 815 Bus Routes](https://github.com/Dh0le/Leetcode/blob/main/DFS/Leetcode815.java)
+
 ## Depth-first search 深度优先搜索
 
 ### [Leetcode 22 Generate Parentheses](https://github.com/Dh0le/Leetcode/blob/main/DFS/Leetcode22.java)
@@ -157,8 +159,6 @@ Leetcode Question &amp; Solutions
 ### [Leetcode 216 Combination Sum III](https://github.com/Dh0le/Leetcode/blob/main/DFS/Leetcode562.java)
 
 ### [Leetcode 465 Optimal Account Balancing](https://github.com/Dh0le/Leetcode/blob/main/DFS/Leetcode465.java)
-
-### [Leetcode 815 Bus Routes](https://github.com/Dh0le/Leetcode/blob/main/DFS/Leetcode815.java)
 
 ## Data Structure 数据结构
 
