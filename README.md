@@ -270,6 +270,8 @@ Leetcode Question &amp; Solutions
 
 #### [Leetcode 283 Move zeros](https://github.com/Dh0le/Leetcode/blob/main/TwoPointers/Array/Leetcode283.java)
 
+#### [Leetcode 2422 Merge Operations to Turn Array Into a Palindrome](https://github.com/Dh0le/Leetcode/blob/main/TwoPointers/Array/Leetcode2422.java)
+
 ### LinkedList 链表应用
 
 #### [Leetcode 21 Merge Two Sorted Lists](https://github.com/Dh0le/Leetcode/blob/main/TwoPointers/LinkedList/Leetcode21.java)
