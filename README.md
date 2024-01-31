@@ -328,6 +328,10 @@ Leetcode Question &amp; Solutions
 
 ### [Leetcode 772 Basic Calculator III](https://github.com/Dh0le/Leetcode/blob/main/Stack/Leetcode772.java)
 
+## Greedy 贪心算法
+
+### [Leetcode 1024 Video Stitching](https://github.com/Dh0le/Leetcode/blob/main/GreedyMethod/Leetcode1024.java)
+
 ## DP 动态规划
 
 ### [House Robber Problem 打家劫舍问题](https://github.com/Dh0le/Leetcode/blob/main/DP/HouseRobberAll.java)
@@ -392,7 +396,9 @@ Leetcode Question &amp; Solutions
 
 #### [Leetcode 547 Number of Provinces](https://github.com/Dh0le/Leetcode/blob/main/Graph/UnionFind/Leetcode547.java)
 
-#### [Leetcode Satisfiability of Equality Equations](https://github.com/Dh0le/Leetcode/blob/main/Graph/UnionFind/Leetcode990.java)
+#### [Leetcode 924 Minimize malware](https://github.com/Dh0le/Leetcode/blob/main/Graph/UnionFind/Leetcode547.java)
+
+#### [Leetcode 990 Satisfiability of Equality Equations](https://github.com/Dh0le/Leetcode/blob/main/Graph/UnionFind/Leetcode990.java)
 
 #### [Leetcode 1135 Connecting Cities With Minimum Cost](https://github.com/Dh0le/Leetcode/blob/main/Graph/UnionFind/Leetcode1135.java)
 
