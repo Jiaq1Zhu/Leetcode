@@ -130,7 +130,9 @@ Leetcode Question &amp; Solutions
 
 ### [Leetcode 419 Battleships in a Board](https://github.com/Dh0le/Leetcode/blob/main/BFS/Leetcode785.java)
 
-### [Leetcode 815 Bus Routes](https://github.com/Dh0le/Leetcode/blob/main/DFS/Leetcode815.java)
+### [Leetcode 815 Bus Routes](https://github.com/Dh0le/Leetcode/blob/main/BFS/Leetcode815.java)
+
+### [Leetcode 2115 Find All Possible Recipes from Given Supplies](https://github.com/Dh0le/Leetcode/blob/main/BFS/Leetcode2115.java)
 
 ## Depth-first search 深度优先搜索
 
