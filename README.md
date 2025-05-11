@@ -28,6 +28,8 @@ Leetcode Question &amp; Solutions
 
 ### [Leetcode 1539 Kth Missing Positive Number](https://github.com/Dh0le/Leetcode/blob/main/BinarySearch/Leetcode1539.java)
 
+### [Leetcode 2071 Maximum Number of Tasks You Can Assign](https://github.com/Dh0le/Leetcode/blob/main/BinarySearch/Leetcode2071.java)
+
 ## Binary Tree 二叉树
 
 ### [Leetcode 95 Unique Binary Search Trees II(Python)](https://github.com/Dh0le/Leetcode/blob/main/BinarySearchTree/Python/Leetcode95.py)
