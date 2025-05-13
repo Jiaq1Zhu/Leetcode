@@ -16,9 +16,11 @@ Leetcode Question &amp; Solutions
 
 ### [Leetcode 4 Median of Two Sorted Arrays](https://github.com/Dh0le/Leetcode/blob/main/BinarySearch/Leetcode4.java)
 
-### [Leetcode 475 Heaters](https://github.com/Dh0le/Leetcode/blob/main/BinarySearch/Leetcode475.java)
-
 ### [Leetcode 162 Find Peak Element](https://github.com/Dh0le/Leetcode/blob/main/BinarySearch/Leetcode162.java)
+
+### [Leetcode 352 Data Stream as Disjoint Intervals](https://github.com/Dh0le/Leetcode/blob/main/BinarySearch/Leetcode352.java)
+
+### [Leetcode 475 Heaters](https://github.com/Dh0le/Leetcode/blob/main/BinarySearch/Leetcode475.java)
 
 ### [Leetcode 875 Koko Eating Bananas](https://github.com/Dh0le/Leetcode/blob/main/BinarySearch/Leetcode875.java)
 
