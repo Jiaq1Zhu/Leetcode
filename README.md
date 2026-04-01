@@ -114,6 +114,10 @@ Leetcode Question &amp; Solutions
 
 ### [Leetcode 1666 Change the Root of a Binary Tree](https://github.com/Dh0le/Leetcode/blob/main/BinaryTree/Leetcode1666.java)
 
+## Bit Operation 位运算
+
+### ### [Leetcode 2571 Minimum Operations to Reduce an Integer to 0](https://github.com/Dh0le/Leetcode/blob/main/BitOperation/Leetcode2571.java)
+
 ## Breadth-first search 广度优先搜索
 
 ### [Leetcode 111 Minimum Depth of Binary Tree](https://github.com/Dh0le/Leetcode/blob/main/BFS/Leetcode111.java)
@@ -309,6 +313,8 @@ Leetcode Question &amp; Solutions
 #### [Leetcode 567 Permutation in String](https://github.com/Dh0le/Leetcode/blob/main/TwoPointers/SlidingWindow/Leetcode567.java)
 
 #### [Leetcode 1151 Minimum Swaps to Group All 1's Together](https://github.com/Dh0le/Leetcode/blob/main/TwoPointers/SlidingWindow/Leetcode1151.java)
+
+#### [Leetcode 2461 Maximum Sum of Distinct Subarrays With Length K](https://github.com/Dh0le/Leetcode/blob/main/TwoPointers/SlidingWindow/Leetcode2461.java)
 
 ## Monotonous stack 单调栈问题
 
