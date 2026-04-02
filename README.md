@@ -312,6 +312,8 @@ Leetcode Question &amp; Solutions
 
 #### [Leetcode 567 Permutation in String](https://github.com/Dh0le/Leetcode/blob/main/TwoPointers/SlidingWindow/Leetcode567.java)
 
+#### [Leetcode 713 Subarray Product Less Than K](https://github.com/Dh0le/Leetcode/blob/main/TwoPointers/SlidingWindow/Leetcode713.java)
+
 #### [Leetcode 1151 Minimum Swaps to Group All 1's Together](https://github.com/Dh0le/Leetcode/blob/main/TwoPointers/SlidingWindow/Leetcode1151.java)
 
 #### [Leetcode 2461 Maximum Sum of Distinct Subarrays With Length K](https://github.com/Dh0le/Leetcode/blob/main/TwoPointers/SlidingWindow/Leetcode2461.java)
@@ -354,9 +356,27 @@ Leetcode Question &amp; Solutions
 
 ### [Knapsack Problem 背包问题](https://github.com/Dh0le/Leetcode/blob/main/DP/KnapSackProblems.java)
 
+### [Leetcode 70 Climbing Stairs(Complete Knapscak-permutation)](https://github.com/Dh0le/Leetcode/blob/main/DP/Leetcode70.java)
+
 ### [Leetcode 72 Edit Distance](https://github.com/Dh0le/Leetcode/blob/main/DP/Leetcode72.java)
 
+### [Leetcode 139 Word Break(Complete Knapscak-permutation)](https://github.com/Dh0le/Leetcode/blob/main/DP/Leetcode139.java)
+
+### [Leetcode 279 Perfect Square(Complete knapsack-Combination)](https://github.com/Dh0le/Leetcode/blob/main/DP/Leetcode279.java)
+
 ### [Leetcode 300 Longest increasing subsequence](https://github.com/Dh0le/Leetcode/blob/main/DP/Leetcode300.java)
+
+### [Leetcode 322 Coin Change(Complete knapsack-Combination)](https://github.com/Dh0le/Leetcode/blob/main/DP/Leetcode322.java)
+
+### [Leetcode 416 Partition Equal Subset Sum(01-knapscak)](https://github.com/Dh0le/Leetcode/blob/main/DP/Leetcode322.java)
+
+### [Leetcode 474 Ones and Zeroes)](https://github.com/Dh0le/Leetcode/blob/main/DP/Leetcode474.java)
+
+### [Leetcode 494 Target Sum - memorization + DFS](https://github.com/Dh0le/Leetcode/blob/main/DP/Leetcode494.java)
+
+### [Leetcode 518 Coin Change ii(Complete knapsack-Combination)](https://github.com/Dh0le/Leetcode/blob/main/DP/Leetcode518.java)
+
+### [Leetcode 377 Combination Sum IV (Complete knapsack-Permutation)](https://github.com/Dh0le/Leetcode/blob/main/DP/Leetcode377.java)
 
 ### [Leetcode 583 Delete Operation for Two Strings](https://github.com/Dh0le/Leetcode/blob/main/DP/Leetcode583.java)
 
