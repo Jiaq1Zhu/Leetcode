@@ -396,7 +396,7 @@ Leetcode Question &amp; Solutions
 
 ### Dijkstra Algorithm 迪杰斯特拉算法
 
-#### [Leetcode 734 Network Delay Time](https://github.com/Dh0le/Leetcode/blob/main/Graph/Dijkstra/Leetcode743.java)
+#### [Leetcode 743 Network Delay Time](https://github.com/Dh0le/Leetcode/blob/main/Graph/Dijkstra/Leetcode743.java)
 
 #### [Leetcode 1514 Path with Maximum Probability](https://github.com/Dh0le/Leetcode/blob/main/Graph/Dijkstra/Leetcode1514.java)
 
@@ -406,9 +406,17 @@ Leetcode Question &amp; Solutions
 
 #### [Leetcode 210 Course Schedule II](https://github.com/Dh0le/Leetcode/blob/main/Graph/BFS/Leetcode210.java)
 
+#### [Leetcode 542 01 Matrix](https://github.com/Dh0le/Leetcode/blob/main/Graph/BFS/Leetcode542.java)
+
+#### [Leetcode 1293 Shortest Path in a Grid with Obstacles Elimination](https://github.com/Dh0le/Leetcode/blob/main/Graph/BFS/Leetcode1293.java)
+
 ### DFS 深度优先搜索
 
+#### [Leetcode 200 Number of Island](https://github.com/Dh0le/Leetcode/blob/main/Graph/DFS/Leetcode200.java)
+
 #### [Leetcode 207 Course Schedule](https://github.com/Dh0le/Leetcode/blob/main/Graph/DFS/Leetcode207.java)
+
+#### [Leetcode 417 Pacific Atlantic Water Flow](https://github.com/Dh0le/Leetcode/blob/main/Graph/DFS/Leetcode417.java)
 
 #### [Leetcode 797 All Paths From Source to Target](https://github.com/Dh0le/Leetcode/blob/main/Graph/DFS/Leetcode797.java)
 
