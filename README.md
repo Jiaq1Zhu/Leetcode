@@ -386,6 +386,8 @@ Leetcode Question &amp; Solutions
 
 ### [Leetcode 1143 Longest Common subsequence](https://github.com/Dh0le/Leetcode/blob/main/DP/Leetcode1143.java)
 
+### [Leetcode 1235 Maximum Profit in Job Scheduling](https://github.com/Dh0le/Leetcode/blob/main/DP/Leetcode1235.java)
+
 ### [Leetcode 1567 Maximum Length of Subarray With Positive Product](https://github.com/Dh0le/Leetcode/blob/main/DP/Leetcode1567.java)
 
 ## Graph 图算法
@@ -416,9 +418,13 @@ Leetcode Question &amp; Solutions
 
 #### [Leetcode 207 Course Schedule](https://github.com/Dh0le/Leetcode/blob/main/Graph/DFS/Leetcode207.java)
 
+#### [Leetcode Longest Increasing Path in a Matrix](https://github.com/Dh0le/Leetcode/blob/main/Graph/DFS/Leetcode329.java)
+
 #### [Leetcode 417 Pacific Atlantic Water Flow](https://github.com/Dh0le/Leetcode/blob/main/Graph/DFS/Leetcode417.java)
 
 #### [Leetcode 797 All Paths From Source to Target](https://github.com/Dh0le/Leetcode/blob/main/Graph/DFS/Leetcode797.java)
+
+#### [Leetcode 959 Regions Cut By Slashes](https://github.com/Dh0le/Leetcode/blob/main/Graph/DFS/Leetcode959.java)
 
 ### Biparted Graph 二分图问题
 
@@ -437,6 +443,8 @@ Leetcode Question &amp; Solutions
 #### [Leetcode 323 Number of Connected Components in an Undirected Graph](https://github.com/Dh0le/Leetcode/blob/main/Graph/UnionFind/Leetcode323.java)
 
 #### [Leetcode 547 Number of Provinces](https://github.com/Dh0le/Leetcode/blob/main/Graph/UnionFind/Leetcode547.java)
+
+#### [Leetcode 684 Redundant Connection](https://github.com/Dh0le/Leetcode/blob/main/Graph/UnionFind/Leetcode684.java)
 
 #### [Leetcode 924 Minimize malware](https://github.com/Dh0le/Leetcode/blob/main/Graph/UnionFind/Leetcode547.java)
 
