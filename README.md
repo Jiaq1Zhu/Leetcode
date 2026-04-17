@@ -350,6 +350,18 @@ Leetcode Question &amp; Solutions
 
 ## DP 动态规划
 
+### Interval Type DP
+
+#### [Leetcode 5 Longest Palindromic Substring](https://github.com/Dh0le/Leetcode/blob/main/DP/IntervalDP/Leetcode5.java)
+
+#### [Leetcode 516 Longest Palindromic Subsequence](https://github.com/Dh0le/Leetcode/blob/main/DP/IntervalDP/Leetcode516.java)
+
+#### [Leetcode 664 Strange Printer](https://github.com/Dh0le/Leetcode/blob/main/DP/IntervalDP/Leetcode664.java)
+
+#### [Leetcode 1000 Minimum Cost to Merge Stones](https://github.com/Dh0le/Leetcode/blob/main/DP/IntervalDP/Leetcode1000.java)
+
+#### [Leetcode 1039 Minimum Score Triangulation of Polygon](https://github.com/Dh0le/Leetcode/blob/main/DP/IntervalDP/Leetcode1039.java)
+
 ### [House Robber Problem 打家劫舍问题](https://github.com/Dh0le/Leetcode/blob/main/DP/HouseRobberAll.java)
 
 ### [Buy and Sell Stock 股票买卖问题](https://github.com/Dh0le/Leetcode/blob/main/DP/SellAndBuyStock.java)
