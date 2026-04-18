@@ -350,7 +350,7 @@ Leetcode Question &amp; Solutions
 
 ## DP 动态规划
 
-### Interval Type DP
+### Interval Type DP 区间类型dp
 
 #### [Leetcode 5 Longest Palindromic Substring](https://github.com/Dh0le/Leetcode/blob/main/DP/IntervalDP/Leetcode5.java)
 
@@ -361,6 +361,18 @@ Leetcode Question &amp; Solutions
 #### [Leetcode 1000 Minimum Cost to Merge Stones](https://github.com/Dh0le/Leetcode/blob/main/DP/IntervalDP/Leetcode1000.java)
 
 #### [Leetcode 1039 Minimum Score Triangulation of Polygon](https://github.com/Dh0le/Leetcode/blob/main/DP/IntervalDP/Leetcode1039.java)
+
+### Knapsack Type DP 背包类型dp
+
+#### [Leetcode 322 Coin Change(Complete knapsack-Combination)](https://github.com/Dh0le/Leetcode/blob/main/DP/KnapsackDP/Leetcode322.java)
+
+#### [Leetcode 416 Partition Equal Subset Sum(01-knapscak)](https://github.com/Dh0le/Leetcode/blob/main/DP/KnapsackDP/Leetcode416.java)
+
+#### [Leetcode 474 Ones and Zeroes)](https://github.com/Dh0le/Leetcode/blob/main/DP/KnapsackDP/Leetcode474.java)
+
+#### [Leetcode 494 Target Sum (01-knapscak)](https://github.com/Dh0le/Leetcode/blob/main/DP/KnapsackDP/Leetcode494.java)
+
+#### [Leetcode 1049 Last Stone Weight II (01-knapscak)](https://github.com/Dh0le/Leetcode/blob/main/DP/KnapsackDP/Leetcode1049.java)
 
 ### [House Robber Problem 打家劫舍问题](https://github.com/Dh0le/Leetcode/blob/main/DP/HouseRobberAll.java)
 
@@ -377,14 +389,6 @@ Leetcode Question &amp; Solutions
 ### [Leetcode 279 Perfect Square(Complete knapsack-Combination)](https://github.com/Dh0le/Leetcode/blob/main/DP/Leetcode279.java)
 
 ### [Leetcode 300 Longest increasing subsequence](https://github.com/Dh0le/Leetcode/blob/main/DP/Leetcode300.java)
-
-### [Leetcode 322 Coin Change(Complete knapsack-Combination)](https://github.com/Dh0le/Leetcode/blob/main/DP/Leetcode322.java)
-
-### [Leetcode 416 Partition Equal Subset Sum(01-knapscak)](https://github.com/Dh0le/Leetcode/blob/main/DP/Leetcode322.java)
-
-### [Leetcode 474 Ones and Zeroes)](https://github.com/Dh0le/Leetcode/blob/main/DP/Leetcode474.java)
-
-### [Leetcode 494 Target Sum - memorization + DFS](https://github.com/Dh0le/Leetcode/blob/main/DP/Leetcode494.java)
 
 ### [Leetcode 518 Coin Change ii(Complete knapsack-Combination)](https://github.com/Dh0le/Leetcode/blob/main/DP/Leetcode518.java)
 
