@@ -374,6 +374,18 @@ Leetcode Question &amp; Solutions
 
 #### [Leetcode 1049 Last Stone Weight II (01-knapscak)](https://github.com/Dh0le/Leetcode/blob/main/DP/KnapsackDP/Leetcode1049.java)
 
+### Sequnece Type DP 序列类型DP
+
+#### [Leetcode 72 Edit Distance](https://github.com/Dh0le/Leetcode/blob/main/DP/SequenceDP/Leetcode72.java)
+
+#### [Leetcode 97 Interleaving String](https://github.com/Dh0le/Leetcode/blob/main/DP/SequenceDP/Leetcode97.java)
+
+#### [Leetcode 115 Distinct Subsequences](https://github.com/Dh0le/Leetcode/blob/main/DP/SequenceDP/Leetcode115.java)
+
+#### [Leetcode 300 Longest increasing subsequence](https://github.com/Dh0le/Leetcode/blob/main/DP/SequenceDP/Leetcode300.java)
+
+#### [Leetcode 1143 Longest Common subsequence](https://github.com/Dh0le/Leetcode/blob/main/DP/SequenceDP/Leetcode1143.java)
+
 ### [House Robber Problem 打家劫舍问题](https://github.com/Dh0le/Leetcode/blob/main/DP/HouseRobberAll.java)
 
 ### [Buy and Sell Stock 股票买卖问题](https://github.com/Dh0le/Leetcode/blob/main/DP/SellAndBuyStock.java)
@@ -382,13 +394,9 @@ Leetcode Question &amp; Solutions
 
 ### [Leetcode 70 Climbing Stairs(Complete Knapscak-permutation)](https://github.com/Dh0le/Leetcode/blob/main/DP/Leetcode70.java)
 
-### [Leetcode 72 Edit Distance](https://github.com/Dh0le/Leetcode/blob/main/DP/Leetcode72.java)
-
 ### [Leetcode 139 Word Break(Complete Knapscak-permutation)](https://github.com/Dh0le/Leetcode/blob/main/DP/Leetcode139.java)
 
 ### [Leetcode 279 Perfect Square(Complete knapsack-Combination)](https://github.com/Dh0le/Leetcode/blob/main/DP/Leetcode279.java)
-
-### [Leetcode 300 Longest increasing subsequence](https://github.com/Dh0le/Leetcode/blob/main/DP/Leetcode300.java)
 
 ### [Leetcode 518 Coin Change ii(Complete knapsack-Combination)](https://github.com/Dh0le/Leetcode/blob/main/DP/Leetcode518.java)
 
@@ -399,8 +407,6 @@ Leetcode Question &amp; Solutions
 ### [Leetcode 712 Minimum ASCII Delete Sum for Two Strings](https://github.com/Dh0le/Leetcode/blob/main/DP/Leetcode712.java)
 
 ### [Leetcode 907 Sum of Subarray Minimums](https://github.com/Dh0le/Leetcode/blob/main/DP/Leetcode907.java)
-
-### [Leetcode 1143 Longest Common subsequence](https://github.com/Dh0le/Leetcode/blob/main/DP/Leetcode1143.java)
 
 ### [Leetcode 1235 Maximum Profit in Job Scheduling](https://github.com/Dh0le/Leetcode/blob/main/DP/Leetcode1235.java)
 
