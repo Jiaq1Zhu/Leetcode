@@ -376,6 +376,8 @@ Leetcode Question &amp; Solutions
 
 ### Sequnece Type DP 序列类型DP
 
+#### [Leetcode 44 Wildcard Matching](https://github.com/Dh0le/Leetcode/blob/main/DP/SequenceDP/Leetcode44.java)
+
 #### [Leetcode 72 Edit Distance](https://github.com/Dh0le/Leetcode/blob/main/DP/SequenceDP/Leetcode72.java)
 
 #### [Leetcode 97 Interleaving String](https://github.com/Dh0le/Leetcode/blob/main/DP/SequenceDP/Leetcode97.java)
@@ -385,6 +387,12 @@ Leetcode Question &amp; Solutions
 #### [Leetcode 300 Longest increasing subsequence](https://github.com/Dh0le/Leetcode/blob/main/DP/SequenceDP/Leetcode300.java)
 
 #### [Leetcode 1143 Longest Common subsequence](https://github.com/Dh0le/Leetcode/blob/main/DP/SequenceDP/Leetcode1143.java)
+
+### Tree Type DP 树类型DP
+
+#### [Leetcode 834 Sum of Distances in Tree](https://github.com/Dh0le/Leetcode/blob/main/DP/SequenceDP/Leetcode834.java)
+
+#### [Leetcode 968 Binary Tree Cameras](https://github.com/Dh0le/Leetcode/blob/main/DP/TreeDP/Leetcode968.java)
 
 ### [House Robber Problem 打家劫舍问题](https://github.com/Dh0le/Leetcode/blob/main/DP/HouseRobberAll.java)
 
