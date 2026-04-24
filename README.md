@@ -132,6 +132,10 @@ Leetcode Question &amp; Solutions
 
 ### [Leetcode 529 Minesweeper ](https://github.com/Dh0le/Leetcode/blob/main/BFS/Leetcode529.java)
 
+### [Leetcode 752 Open the Lock](https://github.com/Dh0le/Leetcode/blob/main/BFS/Leetcode752.java)
+
+### [Leetcode 773 Sliding puzzle](https://github.com/Dh0le/Leetcode/blob/main/BFS/Leetcode773.java)
+
 ### [Leetcode 785 Is Graph Bipartite?](https://github.com/Dh0le/Leetcode/blob/main/BFS/Leetcode785.java)
 
 ### [Leetcode 994 Rotting Oranges](https://github.com/Dh0le/Leetcode/blob/main/BFS/Leetcode994.java)
