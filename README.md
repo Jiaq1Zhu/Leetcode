@@ -236,6 +236,8 @@ Leetcode Question &amp; Solutions
 
 ### [Leetcode 974 Subarray Sums Divisible by K](https://github.com/Dh0le/Leetcode/blob/main/PrefixSum/Leetcode974.java)
 
+### [Leetcode 1074 Number of Submatrices That Sum to Target](https://github.com/Dh0le/Leetcode/blob/main/PrefixSum/Leetcode1074.java)
+
 ### [Leetcode 1109 Corporate Flight Bookings](https://github.com/Dh0le/Leetcode/blob/main/PrefixSum/Leetcode1109.java)
 
 ### [Leetcode 1177 Can Make Palindrome from Substring](https://github.com/Dh0le/Leetcode/blob/main/PrefixSum/Leetcode1177.java)
