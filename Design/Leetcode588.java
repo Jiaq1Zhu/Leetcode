@@ -1,48 +1,73 @@
 public class Leetcode588 {
-    class Node {
-        String name;
-        Map<String, Node> nodeByName = new TreeMap<>();
-        boolean isFile = false;
+    class FileNode {
+        boolean isFile;
+        Map<String, FileNode> children = new TreeMap<>();
         StringBuilder content = new StringBuilder();
-
-        public Node(String name) {
-            this.name = name;
-        }
     }
 
-    Node root;
+    private FileNode root;
 
-    public FileSystem() {
-        this.root = new Node("");
+    public Leetcode588() {
+        root = new FileNode();
+    }
+
+    private FileNode traverse(String path) {
+        String[] parts = path.split("/");
+        FileNode cur = root;
+        for (String part : parts) {
+            if (part.isEmpty())
+                continue;
+            cur = cur.children.get(part);
+        }
+        return cur;
     }
 
     public List<String> ls(String path) {
-        Node n = traversePath(path);
-        return n.isFile ? List.of(n.name) : List.copyOf(n.nodeByName.keySet());
+        List<String> res = new ArrayList<>();
+        FileNode curr = root;
+        String[] parts = path.split("/");
+        String lastPart = "";
+        for (String part : parts) {
+            if (part.isEmpty())
+                continue;
+            curr = curr.children.get(part);
+            lastPart = part;
+        }
+
+        if (curr.isFile) {
+            res.add(lastPart);
+        } else {
+            res.addAll(curr.children.keySet());
+        }
+        return res;
     }
 
     public void mkdir(String path) {
-        traversePath(path);
+        String[] parts = path.split("/");
+        FileNode cur = root;
+        for (String part : parts) {
+            if (part.isEmpty())
+                continue;
+            cur.children.putIfAbsent(part, new FileNode());
+            cur = cur.children.get(part);
+        }
     }
 
     public void addContentToFile(String filePath, String content) {
-        Node n = traversePath(filePath);
-        n.content.append(content);
-        n.isFile = true;
+        String[] parts = filePath.split("/");
+        FileNode cur = root;
+        for (String part : parts) {
+            if (part.isEmpty())
+                continue;
+            cur.children.putIfAbsent(part, new FileNode());
+            cur = cur.children.get(part);
+        }
+        cur.isFile = true;
+        cur.content.append(content);
     }
 
     public String readContentFromFile(String filePath) {
-        return traversePath(filePath).content.toString();
-    }
-
-    public Node traversePath(String path) {
-        Node cur = root;
-        String[] parts = path.split("/");
-        int[] depth = new int[] { 1 };
-        while (depth[0] < parts.length) {
-            cur = cur.nodeByName.computeIfAbsent(parts[depth[0]], k -> new Node(parts[depth[0]]));
-            depth[0]++;
-        }
-        return cur;
+        FileNode fileNode = traverse(filePath);
+        return fileNode.content.toString();
     }
 }

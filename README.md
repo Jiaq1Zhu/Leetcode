@@ -184,6 +184,8 @@ Leetcode Question &amp; Solutions
 
 ### [Leetcode 348 Design Tic-Tac-Toe](https://github.com/Dh0le/Leetcode/blob/main/Design/Leetcode348.java)
 
+### [Leetcode 362 Design Hit Counter](https://github.com/Dh0le/Leetcode/blob/main/Design/Leetcode362.java)
+
 ### [Leetcode 588 Design In-Memory File System](https://github.com/Dh0le/Leetcode/blob/main/Design/Leetcode588.java)
 
 ## LinkedList 链表问题
