@@ -396,6 +396,8 @@ Leetcode Question &amp; Solutions
 
 #### [Leetcode 1143 Longest Common subsequence](https://github.com/Dh0le/Leetcode/blob/main/DP/SequenceDP/Leetcode1143.java)
 
+#### [Leetcode 3316 Find Maximum Removals From Source String](https://github.com/Dh0le/Leetcode/blob/main/DP/SequenceDP/Leetcode3316.java)
+
 ### Tree Type DP 树类型DP
 
 #### [Leetcode 834 Sum of Distances in Tree](https://github.com/Dh0le/Leetcode/blob/main/DP/SequenceDP/Leetcode834.java)
